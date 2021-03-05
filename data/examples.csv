@@ -1,0 +1,6 @@
+"ITEM_ID","GRAPH_ID","SENTENCE","PRED_HEAD_IDX","ARG_HEAD_IDX","LABEL"
+"example0","graph0","Mary ran down the street .",1,0,"agent"
+"example1","graph0","Mary was chased by a dog .",1,0,"patient"
+"example2","graph0","Mary gave John a dog .",4,0,"theme"
+"example3","graph0","Mary smelled jer dog .",1,0,"experiencer"
+"example4","graph0","Mary gave John a dog .",1,0,"recipient"

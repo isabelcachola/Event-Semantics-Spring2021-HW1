@@ -1,0 +1,633 @@
+"ITEM_ID","GRAPH_ID","SENTENCE","PRED_HEAD_IDX","ARG_HEAD_IDX","LABEL"
+"ewt-dev-1_3_5","ewt-dev-1","From the AP comes this story :",3,5,0
+"ewt-dev-8_3_2","ewt-dev-8","Today 's incident proves that Sharon has lost his patience and his hope in peace .",3,2,0
+"ewt-dev-8_7_5","ewt-dev-8","Today 's incident proves that Sharon has lost his patience and his hope in peace .",7,5,0
+"ewt-dev-8_7_9","ewt-dev-8","Today 's incident proves that Sharon has lost his patience and his hope in peace .",7,9,0
+"ewt-dev-9_2_1","ewt-dev-9","Nervous people make mistakes , so I suppose there will be a wave of succesfull arab attacks .",2,1,0
+"ewt-dev-9_2_3","ewt-dev-9","Nervous people make mistakes , so I suppose there will be a wave of succesfull arab attacks .",2,3,0
+"ewt-dev-9_7_6","ewt-dev-9","Nervous people make mistakes , so I suppose there will be a wave of succesfull arab attacks .",7,6,0
+"ewt-dev-12_2_1","ewt-dev-12","The US lost yet another helicopter to hostile fire near Habbaniyah in the Sunni heartland , but this time the crew was safe .",2,1,0
+"ewt-dev-12_2_5","ewt-dev-12","The US lost yet another helicopter to hostile fire near Habbaniyah in the Sunni heartland , but this time the crew was safe .",2,5,1
+"ewt-dev-19_1_0","ewt-dev-19","They work on Wall Street , after all , so when they hear a company who's stated goals include "" Do n't be evil , "" they imagine a company who's eventually history will be "" Do n't be profitable . """,1,0,0
+"ewt-dev-19_12_11","ewt-dev-19","They work on Wall Street , after all , so when they hear a company who's stated goals include "" Do n't be evil , "" they imagine a company who's eventually history will be "" Do n't be profitable . """,12,11,0
+"ewt-dev-19_12_14","ewt-dev-19","They work on Wall Street , after all , so when they hear a company who's stated goals include "" Do n't be evil , "" they imagine a company who's eventually history will be "" Do n't be profitable . """,12,14,0
+"ewt-dev-19_18_17","ewt-dev-19","They work on Wall Street , after all , so when they hear a company who's stated goals include "" Do n't be evil , "" they imagine a company who's eventually history will be "" Do n't be profitable . """,18,17,0
+"ewt-dev-19_27_26","ewt-dev-19","They work on Wall Street , after all , so when they hear a company who's stated goals include "" Do n't be evil , "" they imagine a company who's eventually history will be "" Do n't be profitable . """,27,26,0
+"ewt-dev-19_27_29","ewt-dev-19","They work on Wall Street , after all , so when they hear a company who's stated goals include "" Do n't be evil , "" they imagine a company who's eventually history will be "" Do n't be profitable . """,27,29,0
+"ewt-dev-25_12_3","ewt-dev-25","The continued Israeli colonization of the occupied Palestinian territories during the 1990s helped , along with terrorist attacks by radical groups such as Hamas , to derail the peace process , which Sharon had always opposed .",12,3,0
+"ewt-dev-25_26_29","ewt-dev-25","The continued Israeli colonization of the occupied Palestinian territories during the 1990s helped , along with terrorist attacks by radical groups such as Hamas , to derail the peace process , which Sharon had always opposed .",26,29,0
+"ewt-dev-25_35_29","ewt-dev-25","The continued Israeli colonization of the occupied Palestinian territories during the 1990s helped , along with terrorist attacks by radical groups such as Hamas , to derail the peace process , which Sharon had always opposed .",35,29,0
+"ewt-dev-25_35_32","ewt-dev-25","The continued Israeli colonization of the occupied Palestinian territories during the 1990s helped , along with terrorist attacks by radical groups such as Hamas , to derail the peace process , which Sharon had always opposed .",35,32,0
+"ewt-dev-26_3_2","ewt-dev-26","Arafat 's death creates a vacuum in Palestinian leadership that will not soon be filled .",3,2,0
+"ewt-dev-26_3_5","ewt-dev-26","Arafat 's death creates a vacuum in Palestinian leadership that will not soon be filled .",3,5,0
+"ewt-dev-26_14_5","ewt-dev-26","Arafat 's death creates a vacuum in Palestinian leadership that will not soon be filled .",14,5,0
+"ewt-dev-31_1_0","ewt-dev-31","Xinhua reports that a wide range of Iraqi political forces on Tuesday condemned Sharon 's murder of Sheikh Ahmed Yassin , a religious leader of Hamas , the day before .",1,0,0
+"ewt-dev-31_12_5","ewt-dev-31","Xinhua reports that a wide range of Iraqi political forces on Tuesday condemned Sharon 's murder of Sheikh Ahmed Yassin , a religious leader of Hamas , the day before .",12,5,0
+"ewt-dev-31_12_15","ewt-dev-31","Xinhua reports that a wide range of Iraqi political forces on Tuesday condemned Sharon 's murder of Sheikh Ahmed Yassin , a religious leader of Hamas , the day before .",12,15,0
+"ewt-dev-32_15_1","ewt-dev-32","The Board of Muslim clerics in Fallujah , 50 km west of Baghdad , "" condemned the assassination and promised immediate revenge against the coalition soldiers in Iraq . """,15,1,0
+"ewt-dev-32_15_17","ewt-dev-32","The Board of Muslim clerics in Fallujah , 50 km west of Baghdad , "" condemned the assassination and promised immediate revenge against the coalition soldiers in Iraq . """,15,17,0
+"ewt-dev-32_19_21","ewt-dev-32","The Board of Muslim clerics in Fallujah , 50 km west of Baghdad , "" condemned the assassination and promised immediate revenge against the coalition soldiers in Iraq . """,19,21,0
+"ewt-dev-33_6_5","ewt-dev-33","Ash - Sharq al - Awsat reports that Fallujah was closed Tuesday in a general strike .",6,5,0
+"ewt-dev-33_10_8","ewt-dev-33","Ash - Sharq al - Awsat reports that Fallujah was closed Tuesday in a general strike .",10,8,0
+"ewt-dev-34_3_1","ewt-dev-34","US troops there clashed with guerrillas in a fight that left one Iraqi dead .",3,1,0
+"ewt-dev-35_4_7","ewt-dev-35","In Ramadi , there was a big demonstration .",4,7,0
+"ewt-dev-36_7_6","ewt-dev-36","Radical Shiite cleric Muqtada al - Sadr said the attack was "" criminal "" and that "" the Zionists have left only one choice for the Arabs , that of fighting and jihad "" .",7,6,0
+"ewt-dev-37_4_3","ewt-dev-37","The interim Governing Council issued a communique saying , "" It is a proof of the emptiness of the Israeli authority and a destruction of the peace endeavors in the region . . .",4,3,0
+"ewt-dev-37_4_6","ewt-dev-37","The interim Governing Council issued a communique saying , "" It is a proof of the emptiness of the Israeli authority and a destruction of the peace endeavors in the region . . .",4,6,0
+"ewt-dev-38_4_1","ewt-dev-38","This operation would only consolidate the terrorist acts in the world and would not bring peace to the region , "" the message claimed .",4,1,0
+"ewt-dev-38_4_7","ewt-dev-38","This operation would only consolidate the terrorist acts in the world and would not bring peace to the region , "" the message claimed .",4,7,0
+"ewt-dev-38_14_15","ewt-dev-38","This operation would only consolidate the terrorist acts in the world and would not bring peace to the region , "" the message claimed .",14,15,0
+"ewt-dev-38_23_22","ewt-dev-38","This operation would only consolidate the terrorist acts in the world and would not bring peace to the region , "" the message claimed .",23,22,0
+"ewt-dev-39_1_0","ewt-dev-39","Xinhua alleged that "" Many of the Iraqis , who suffer the American occupation of Iraq , relate their case with that of the Palestinian people , under the Israeli occupation . """,1,0,0
+"ewt-dev-39_10_7","ewt-dev-39","Xinhua alleged that "" Many of the Iraqis , who suffer the American occupation of Iraq , relate their case with that of the Palestinian people , under the Israeli occupation . """,10,7,0
+"ewt-dev-39_10_13","ewt-dev-39","Xinhua alleged that "" Many of the Iraqis , who suffer the American occupation of Iraq , relate their case with that of the Palestinian people , under the Israeli occupation . """,10,13,0
+"ewt-dev-39_17_4","ewt-dev-39","Xinhua alleged that "" Many of the Iraqis , who suffer the American occupation of Iraq , relate their case with that of the Palestinian people , under the Israeli occupation . """,17,4,0
+"ewt-dev-39_17_19","ewt-dev-39","Xinhua alleged that "" Many of the Iraqis , who suffer the American occupation of Iraq , relate their case with that of the Palestinian people , under the Israeli occupation . """,17,19,0
+"ewt-dev-40_10_8","ewt-dev-40","In an apparently unrelated incidents , some eleven Iraqis were killed by snipers on Tuesday , including a group of police trainees in a bus near Hilla and two police in Kirkuk .",10,8,0
+"ewt-dev-45_2_0","ewt-dev-45","That 's overstating it , I know .",2,0,0
+"ewt-dev-45_2_3","ewt-dev-45","That 's overstating it , I know .",2,3,0
+"ewt-dev-45_6_5","ewt-dev-45","That 's overstating it , I know .",6,5,0
+"ewt-dev-46_2_1","ewt-dev-46","What they wonder is whether Google can be anything more than what it 's always been -- a great search engine with some real grass - roots support , successful by the grace of simplicity .",2,1,0
+"ewt-dev-46_3_0","ewt-dev-46","What they wonder is whether Google can be anything more than what it 's always been -- a great search engine with some real grass - roots support , successful by the grace of simplicity .",3,0,0
+"ewt-dev-47_1_0","ewt-dev-47","Simplicity gave it that blessed , laudatory lack of clutter , the efficient and effective text - based ads , and the support of anyone with a dial - up connection .",1,0,0
+"ewt-dev-47_1_2","ewt-dev-47","Simplicity gave it that blessed , laudatory lack of clutter , the efficient and effective text - based ads , and the support of anyone with a dial - up connection .",1,2,1
+"ewt-dev-47_1_7","ewt-dev-47","Simplicity gave it that blessed , laudatory lack of clutter , the efficient and effective text - based ads , and the support of anyone with a dial - up connection .",1,7,0
+"ewt-dev-48_2_1","ewt-dev-48","The problem is that customers attracted by a simple interface are among the least loyal you can find -- witness the fight - for - fewest - features between low - end camera companies .",2,1,0
+"ewt-dev-48_19_21","ewt-dev-48","The problem is that customers attracted by a simple interface are among the least loyal you can find -- witness the fight - for - fewest - features between low - end camera companies .",19,21,0
+"ewt-dev-57_8_2","ewt-dev-57","An international contest of cartoons on the Holocaust opened in Tehran in response to the publication in Western papers last September of caricatures of the Prophet Mohammed .",8,2,0
+"ewt-dev-58_2_1","ewt-dev-58",""" We staged this fair to explore the limits of freedom Westerners believe in , "" Masoud Shojai , head of the country 's "" Iran Cartoon "" association and the fair organizer , said .",2,1,0
+"ewt-dev-58_2_4","ewt-dev-58",""" We staged this fair to explore the limits of freedom Westerners believe in , "" Masoud Shojai , head of the country 's "" Iran Cartoon "" association and the fair organizer , said .",2,4,0
+"ewt-dev-58_6_8","ewt-dev-58",""" We staged this fair to explore the limits of freedom Westerners believe in , "" Masoud Shojai , head of the country 's "" Iran Cartoon "" association and the fair organizer , said .",6,8,0
+"ewt-dev-58_12_11","ewt-dev-58",""" We staged this fair to explore the limits of freedom Westerners believe in , "" Masoud Shojai , head of the country 's "" Iran Cartoon "" association and the fair organizer , said .",12,11,0
+"ewt-dev-58_34_17","ewt-dev-58",""" We staged this fair to explore the limits of freedom Westerners believe in , "" Masoud Shojai , head of the country 's "" Iran Cartoon "" association and the fair organizer , said .",34,17,0
+"ewt-dev-59_4_1","ewt-dev-59",""" They can freely write anything they like about our prophet , but if one raises doubts about the Holocaust he is either fined or sent to prison , "" he added .",4,1,0
+"ewt-dev-59_4_5","ewt-dev-59",""" They can freely write anything they like about our prophet , but if one raises doubts about the Holocaust he is either fined or sent to prison , "" he added .",4,5,0
+"ewt-dev-59_15_14","ewt-dev-59",""" They can freely write anything they like about our prophet , but if one raises doubts about the Holocaust he is either fined or sent to prison , "" he added .",15,14,0
+"ewt-dev-59_15_16","ewt-dev-59",""" They can freely write anything they like about our prophet , but if one raises doubts about the Holocaust he is either fined or sent to prison , "" he added .",15,16,0
+"ewt-dev-59_23_20","ewt-dev-59",""" They can freely write anything they like about our prophet , but if one raises doubts about the Holocaust he is either fined or sent to prison , "" he added .",23,20,0
+"ewt-dev-59_31_30","ewt-dev-59",""" They can freely write anything they like about our prophet , but if one raises doubts about the Holocaust he is either fined or sent to prison , "" he added .",31,30,0
+"ewt-dev-61_1_0","ewt-dev-61","Shojai told the opening ceremony of the month - long fair in Tehran 's Palestine Contemporary Art Museum .",1,0,0
+"ewt-dev-61_1_4","ewt-dev-61","Shojai told the opening ceremony of the month - long fair in Tehran 's Palestine Contemporary Art Museum .",1,4,0
+"ewt-dev-62_1_0","ewt-dev-62","He added that around 1,100 cartoons were submitted by participants from more than 60 countries and that more than 200 are on show .",1,0,0
+"ewt-dev-62_7_5","ewt-dev-62","He added that around 1,100 cartoons were submitted by participants from more than 60 countries and that more than 200 are on show .",7,5,1
+"ewt-dev-63_1_0","ewt-dev-63","He said the top three cartoons will be announced on September 2 , with the winners being awarded prizes of 12,000 , 8,000 and 5,000 dollars respectively .",1,0,0
+"ewt-dev-63_8_5","ewt-dev-63","He said the top three cartoons will be announced on September 2 , with the winners being awarded prizes of 12,000 , 8,000 and 5,000 dollars respectively .",8,5,0
+"ewt-dev-63_17_15","ewt-dev-63","He said the top three cartoons will be announced on September 2 , with the winners being awarded prizes of 12,000 , 8,000 and 5,000 dollars respectively .",17,15,0
+"ewt-dev-63_17_18","ewt-dev-63","He said the top three cartoons will be announced on September 2 , with the winners being awarded prizes of 12,000 , 8,000 and 5,000 dollars respectively .",17,18,0
+"ewt-dev-70_3_0","ewt-dev-70","Hundreds of persons mounted demonstrations against the Fallujah campaign in Tikrit and Huwaijah , as well , according to az - Zaman .",3,0,0
+"ewt-dev-70_3_4","ewt-dev-70","Hundreds of persons mounted demonstrations against the Fallujah campaign in Tikrit and Huwaijah , as well , according to az - Zaman .",3,4,0
+"ewt-dev-71_5_1","ewt-dev-71","The battles and demonstrations were provoked by the US assault on Fallujah .",5,1,0
+"ewt-dev-72_1_0","ewt-dev-72","Guerrillas threatened to assassinate Prime Minister Iyad Allawi and Minister of Defense Hazem Shaalan in retaliation for the attack .",1,0,0
+"ewt-dev-72_3_7","ewt-dev-72","Guerrillas threatened to assassinate Prime Minister Iyad Allawi and Minister of Defense Hazem Shaalan in retaliation for the attack .",3,7,0
+"ewt-dev-73_16_3","ewt-dev-73","Allawi 's aged cousin and the man 's wife and daughter - in - law were abducted and guerrillas threaten to behead them if the Fallujah compaign is not stopped .",16,3,0
+"ewt-dev-73_19_18","ewt-dev-73","Allawi 's aged cousin and the man 's wife and daughter - in - law were abducted and guerrillas threaten to behead them if the Fallujah compaign is not stopped .",19,18,0
+"ewt-dev-73_21_22","ewt-dev-73","Allawi 's aged cousin and the man 's wife and daughter - in - law were abducted and guerrillas threaten to behead them if the Fallujah compaign is not stopped .",21,22,0
+"ewt-dev-73_29_26","ewt-dev-73","Allawi 's aged cousin and the man 's wife and daughter - in - law were abducted and guerrillas threaten to behead them if the Fallujah compaign is not stopped .",29,26,0
+"ewt-dev-75_3_2","ewt-dev-75","The US Marines took most of Fallujah Wednesday , but still face pockets of resistance .",3,2,0
+"ewt-dev-75_3_4","ewt-dev-75","The US Marines took most of Fallujah Wednesday , but still face pockets of resistance .",3,4,1
+"ewt-dev-75_11_12","ewt-dev-75","The US Marines took most of Fallujah Wednesday , but still face pockets of resistance .",11,12,0
+"ewt-dev-77_7_3","ewt-dev-77","The intrepid Ed Wong of the NYT has more on the Sunni boycott of the elections .",7,3,0
+"ewt-dev-77_7_8","ewt-dev-77","The intrepid Ed Wong of the NYT has more on the Sunni boycott of the elections .",7,8,0
+"ewt-dev-78_1_0","ewt-dev-78","He reports that the Iraqi Islamic Party , which had earlier been absolutely committed to getting out the Sunni vote , is now wavering and saying their position will depend on the situation .",1,0,0
+"ewt-dev-78_13_6","ewt-dev-78","He reports that the Iraqi Islamic Party , which had earlier been absolutely committed to getting out the Sunni vote , is now wavering and saying their position will depend on the situation .",13,6,0
+"ewt-dev-78_23_6","ewt-dev-78","He reports that the Iraqi Islamic Party , which had earlier been absolutely committed to getting out the Sunni vote , is now wavering and saying their position will depend on the situation .",23,6,0
+"ewt-dev-78_29_27","ewt-dev-78","He reports that the Iraqi Islamic Party , which had earlier been absolutely committed to getting out the Sunni vote , is now wavering and saying their position will depend on the situation .",29,27,0
+"ewt-dev-80_2_1","ewt-dev-80","Jim Lobe has more on the political implications of the Fallujah assault , both in Iraq and in Washington .",2,1,0
+"ewt-dev-80_2_3","ewt-dev-80","Jim Lobe has more on the political implications of the Fallujah assault , both in Iraq and in Washington .",2,3,0
+"ewt-dev-84_3_2","ewt-dev-84","Al - Qaeda wants them , Iran wants them , Russia wants the better ones , and all the US wants is to give them all a piece of coal .",3,2,0
+"ewt-dev-84_3_4","ewt-dev-84","Al - Qaeda wants them , Iran wants them , Russia wants the better ones , and all the US wants is to give them all a piece of coal .",3,4,0
+"ewt-dev-86_9_8","ewt-dev-86","At the same time , an Iranian Opposition Group released what they call proof of a covert nuclear weapons program .",9,8,0
+"ewt-dev-87_10_1","ewt-dev-87","Arial photos , loose connections to AQ Kahn and Libya make up the evidence that the group presented .",10,1,0
+"ewt-dev-87_10_13","ewt-dev-87","Arial photos , loose connections to AQ Kahn and Libya make up the evidence that the group presented .",10,13,0
+"ewt-dev-87_17_13","ewt-dev-87","Arial photos , loose connections to AQ Kahn and Libya make up the evidence that the group presented .",17,13,0
+"ewt-dev-87_17_16","ewt-dev-87","Arial photos , loose connections to AQ Kahn and Libya make up the evidence that the group presented .",17,16,0
+"ewt-dev-89_3_2","ewt-dev-89","President Vladimir Putin said Russia is will have new nuclear weapons that other countries do not and will not have .",3,2,0
+"ewt-dev-94_2_0","ewt-dev-94","It is estimated that Israel has over 200 nuclear weapons yet neither the US nor any of her allies expresses the slightest concern .",2,0,0
+"ewt-dev-94_19_13","ewt-dev-94","It is estimated that Israel has over 200 nuclear weapons yet neither the US nor any of her allies expresses the slightest concern .",19,13,0
+"ewt-dev-94_19_22","ewt-dev-94","It is estimated that Israel has over 200 nuclear weapons yet neither the US nor any of her allies expresses the slightest concern .",19,22,0
+"ewt-dev-96_2_0","ewt-dev-96","It is rumored that North Korea has at least a couple nuclear weapons .",2,0,0
+"ewt-dev-98_4_1","ewt-dev-98","The case against Iran has a feeling of Deja vu .",4,1,0
+"ewt-dev-98_4_6","ewt-dev-98","The case against Iran has a feeling of Deja vu .",4,6,0
+"ewt-dev-99_5_1","ewt-dev-99","Arial photos of the lab were uranium is being enriched , somewhat like those of chemical weapons stockpiles in Iraq .",5,1,0
+"ewt-dev-99_9_6","ewt-dev-99","Arial photos of the lab were uranium is being enriched , somewhat like those of chemical weapons stockpiles in Iraq .",9,6,0
+"ewt-dev-100_1_0","ewt-dev-100","America cried wolf in Iraq , and what 's scary is that sooner or later , that wolf will probably get us .",1,0,0
+"ewt-dev-100_1_2","ewt-dev-100","America cried wolf in Iraq , and what 's scary is that sooner or later , that wolf will probably get us .",1,2,0
+"ewt-dev-101_1_0","ewt-dev-101","I ran across this item on the Internet .",1,0,0
+"ewt-dev-103_3_2","ewt-dev-103","The United States goes into a war zone and evacuates a bunch of U.S. citizens ( most of whom were "" dual - citizens "" ) .",3,2,0
+"ewt-dev-103_9_11","ewt-dev-103","The United States goes into a war zone and evacuates a bunch of U.S. citizens ( most of whom were "" dual - citizens "" ) .",9,11,0
+"ewt-dev-116_18_1","ewt-dev-116","Nina Chahine , 19 , who with her family was among the named plaintiffs in the lawsuit , said her wedding in the southern city of Tyre was set for July 13 .",18,1,0
+"ewt-dev-116_28_20","ewt-dev-116","Nina Chahine , 19 , who with her family was among the named plaintiffs in the lawsuit , said her wedding in the southern city of Tyre was set for July 13 .",28,20,0
+"ewt-dev-117_2_1","ewt-dev-117","The wedding had to be postponed as family members fled the outbreak of the war , she said .",2,1,0
+"ewt-dev-117_9_8","ewt-dev-117","The wedding had to be postponed as family members fled the outbreak of the war , she said .",9,8,0
+"ewt-dev-117_9_11","ewt-dev-117","The wedding had to be postponed as family members fled the outbreak of the war , she said .",9,11,0
+"ewt-dev-118_11_9","ewt-dev-118",""" We were on the road and the first bridge was bombed and we drove home and all the other bridges were bombed and there was absolutely no way for us to get home , "" Chahine told reporters outside federal court in Detroit .",11,9,0
+"ewt-dev-118_14_13","ewt-dev-118",""" We were on the road and the first bridge was bombed and we drove home and all the other bridges were bombed and there was absolutely no way for us to get home , "" Chahine told reporters outside federal court in Detroit .",14,13,0
+"ewt-dev-118_22_20","ewt-dev-118",""" We were on the road and the first bridge was bombed and we drove home and all the other bridges were bombed and there was absolutely no way for us to get home , "" Chahine told reporters outside federal court in Detroit .",22,20,0
+"ewt-dev-118_37_36","ewt-dev-118",""" We were on the road and the first bridge was bombed and we drove home and all the other bridges were bombed and there was absolutely no way for us to get home , "" Chahine told reporters outside federal court in Detroit .",37,36,0
+"ewt-dev-118_37_38","ewt-dev-118",""" We were on the road and the first bridge was bombed and we drove home and all the other bridges were bombed and there was absolutely no way for us to get home , "" Chahine told reporters outside federal court in Detroit .",37,38,0
+"ewt-dev-122_1_0","ewt-dev-122","Chahine said her immediate family spent about $ 20,000 to return to Detroit via Syria and Jordan .",1,0,0
+"ewt-dev-122_5_4","ewt-dev-122","Chahine said her immediate family spent about $ 20,000 to return to Detroit via Syria and Jordan .",5,4,0
+"ewt-dev-122_5_7","ewt-dev-122","Chahine said her immediate family spent about $ 20,000 to return to Detroit via Syria and Jordan .",5,7,1
+"ewt-dev-133_1_3","ewt-dev-133","There is a painting on my wall in the Oval -- first of all , I do n't know .",1,3,0
+"ewt-dev-138_4_6","ewt-dev-138","But if -- there 's a painting on the wall in the Oval Office that shows a horseman charging up a steep cliff , and there are at least two other horsemen following .",4,6,0
+"ewt-dev-138_15_6","ewt-dev-138","But if -- there 's a painting on the wall in the Oval Office that shows a horseman charging up a steep cliff , and there are at least two other horsemen following .",15,6,0
+"ewt-dev-138_15_17","ewt-dev-138","But if -- there 's a painting on the wall in the Oval Office that shows a horseman charging up a steep cliff , and there are at least two other horsemen following .",15,17,0
+"ewt-dev-143_3_1","ewt-dev-143","So he 's got a -- I 'm a decision - maker and I can make good decisions .",3,1,0
+"ewt-dev-143_3_4","ewt-dev-143","So he 's got a -- I 'm a decision - maker and I can make good decisions .",3,4,0
+"ewt-dev-151_3_1","ewt-dev-151","The hymn was sung at my first inaugural church service as governor .",3,1,0
+"ewt-dev-153_5_0","ewt-dev-153","One of the Wesley boys wrote the hymn .",5,0,0
+"ewt-dev-153_5_7","ewt-dev-153","One of the Wesley boys wrote the hymn .",5,7,0
+"ewt-dev-154_3_1","ewt-dev-154","The painting is based upon the hymn called , ' A Charge to Keep . '",3,1,0
+"ewt-dev-155_1_0","ewt-dev-155","I have .",1,0,0
+"ewt-dev-160_2_1","ewt-dev-160","And I gave it all my heart , all my energy , based upon principles that did not change once I got into the Oval Office .",2,1,0
+"ewt-dev-160_2_3","ewt-dev-160","And I gave it all my heart , all my energy , based upon principles that did not change once I got into the Oval Office .",2,3,0
+"ewt-dev-160_2_6","ewt-dev-160","And I gave it all my heart , all my energy , based upon principles that did not change once I got into the Oval Office .",2,6,0
+"ewt-dev-160_18_14","ewt-dev-160","And I gave it all my heart , all my energy , based upon principles that did not change once I got into the Oval Office .",18,14,0
+"ewt-dev-168_1_0","ewt-dev-168","I have no inside information , but I have been following links today that strongly indicate that Google is damn serious about securing permanent control of the leading edge browser technology in Firefox .",1,0,0
+"ewt-dev-168_1_4","ewt-dev-168","I have no inside information , but I have been following links today that strongly indicate that Google is damn serious about securing permanent control of the leading edge browser technology in Firefox .",1,4,0
+"ewt-dev-168_10_7","ewt-dev-168","I have no inside information , but I have been following links today that strongly indicate that Google is damn serious about securing permanent control of the leading edge browser technology in Firefox .",10,7,0
+"ewt-dev-168_10_11","ewt-dev-168","I have no inside information , but I have been following links today that strongly indicate that Google is damn serious about securing permanent control of the leading edge browser technology in Firefox .",10,11,0
+"ewt-dev-168_15_11","ewt-dev-168","I have no inside information , but I have been following links today that strongly indicate that Google is damn serious about securing permanent control of the leading edge browser technology in Firefox .",15,11,0
+"ewt-dev-168_22_24","ewt-dev-168","I have no inside information , but I have been following links today that strongly indicate that Google is damn serious about securing permanent control of the leading edge browser technology in Firefox .",22,24,0
+"ewt-dev-170_1_0","ewt-dev-170","He announced this in January :",1,0,0
+"ewt-dev-170_1_2","ewt-dev-170","He announced this in January :",1,2,0
+"ewt-dev-171_11_8","ewt-dev-171","As of January 10 , 2005 , my source of income changed from The Mozilla Foundation to Google , Inc. of Mountain View , California .",11,8,0
+"ewt-dev-173_1_0","ewt-dev-173","I remain devoted full - time to the advancement of Firefox , the Mozilla platform and web browsing in general .",1,0,0
+"ewt-dev-178_2_1","ewt-dev-178","Darin Fisher wrote this response on January 25 , 2005 :",2,1,0
+"ewt-dev-178_2_4","ewt-dev-178","Darin Fisher wrote this response on January 25 , 2005 :",2,4,0
+"ewt-dev-180_11_10","ewt-dev-180","Following on the heels of Ben 's annoucement yesterday , I thought I 'd post that I have joined Google as well .",11,10,0
+"ewt-dev-180_14_12","ewt-dev-180","Following on the heels of Ben 's annoucement yesterday , I thought I 'd post that I have joined Google as well .",14,12,0
+"ewt-dev-180_18_16","ewt-dev-180","Following on the heels of Ben 's annoucement yesterday , I thought I 'd post that I have joined Google as well .",18,16,0
+"ewt-dev-180_18_19","ewt-dev-180","Following on the heels of Ben 's annoucement yesterday , I thought I 'd post that I have joined Google as well .",18,19,0
+"ewt-dev-183_1_0","ewt-dev-183","Ben made another announcement on March 28 , 2005 :",1,0,0
+"ewt-dev-183_1_3","ewt-dev-183","Ben made another announcement on March 28 , 2005 :",1,3,0
+"ewt-dev-184_1_0","ewt-dev-184","I want to use this opportunity to welcome Brian Ryner to Google !",1,0,0
+"ewt-dev-184_7_9","ewt-dev-184","I want to use this opportunity to welcome Brian Ryner to Google !",7,9,0
+"ewt-dev-190_9_3","ewt-dev-190","In this movie Google and Amazon ( GOOGLEZON ) create a brave new world of media in 2008 .",9,3,0
+"ewt-dev-190_9_13","ewt-dev-190","In this movie Google and Amazon ( GOOGLEZON ) create a brave new world of media in 2008 .",9,13,0
+"ewt-dev-199_5_2","ewt-dev-199","Malach , What you say makes sense .",5,2,0
+"ewt-dev-199_5_6","ewt-dev-199","Malach , What you say makes sense .",5,6,0
+"ewt-dev-202_4_6","ewt-dev-202","The Coalition decision to provoke a fight with Muqtada al - Sadr 's movement only three months before the Coalition Provisional Authority goes out of business has to be seen as a form of gross incompetence in governance .",4,6,0
+"ewt-dev-202_26_2","ewt-dev-202","The Coalition decision to provoke a fight with Muqtada al - Sadr 's movement only three months before the Coalition Provisional Authority goes out of business has to be seen as a form of gross incompetence in governance .",26,2,0
+"ewt-dev-206_2_1","ewt-dev-206","One answer is that the Pentagon prevented the State Department from running the CPA .",2,1,0
+"ewt-dev-206_6_5","ewt-dev-206","One answer is that the Pentagon prevented the State Department from running the CPA .",6,5,0
+"ewt-dev-206_6_9","ewt-dev-206","One answer is that the Pentagon prevented the State Department from running the CPA .",6,9,0
+"ewt-dev-206_11_13","ewt-dev-206","One answer is that the Pentagon prevented the State Department from running the CPA .",11,13,0
+"ewt-dev-209_5_0","ewt-dev-209","Rumsfeld , Wolfowitz and Feith staffed the CPA with Neoconservatives , most of whom had no administrative experience , no Arabic , and no respect for Muslim culture ( or knowledge about it ) .",5,0,0
+"ewt-dev-209_5_7","ewt-dev-209","Rumsfeld , Wolfowitz and Feith staffed the CPA with Neoconservatives , most of whom had no administrative experience , no Arabic , and no respect for Muslim culture ( or knowledge about it ) .",5,7,0
+"ewt-dev-212_5_1","ewt-dev-212","The Neocons in the CPA have all sorts of ulterior motives and social experiments they want to impose on the Iraqi people , including Polish - style economic shock therapy , some sort of sweetheart deal for Israel , and maybe even breaking the country up into three parts .",5,1,0
+"ewt-dev-212_5_7","ewt-dev-212","The Neocons in the CPA have all sorts of ulterior motives and social experiments they want to impose on the Iraqi people , including Polish - style economic shock therapy , some sort of sweetheart deal for Israel , and maybe even breaking the country up into three parts .",5,7,0
+"ewt-dev-212_42_44","ewt-dev-212","The Neocons in the CPA have all sorts of ulterior motives and social experiments they want to impose on the Iraqi people , including Polish - style economic shock therapy , some sort of sweetheart deal for Israel , and maybe even breaking the country up into three parts .",42,44,0
+"ewt-dev-214_15_5","ewt-dev-214","Sept. 11 Commission member Philip Zelikow , who is close to the Bush administration , admitted on Sept. 10 , 2002 , that the ulterior motive of the Bush administration for the Iraq War was to "" protect Israel , "" according to the Asian Times .",15,5,0
+"ewt-dev-214_37_38","ewt-dev-214","Sept. 11 Commission member Philip Zelikow , who is close to the Bush administration , admitted on Sept. 10 , 2002 , that the ulterior motive of the Bush administration for the Iraq War was to "" protect Israel , "" according to the Asian Times .",37,38,0
+"ewt-dev-219_1_5","ewt-dev-219","There is a classical logical fallacy , post hoc ergo propter hoc ( Z happens after X , therefore Z is caused by X ) , and I keep revising this posting this evening because I do n't want to fall into it .",1,5,0
+"ewt-dev-219_14_13","ewt-dev-219","There is a classical logical fallacy , post hoc ergo propter hoc ( Z happens after X , therefore Z is caused by X ) , and I keep revising this posting this evening because I do n't want to fall into it .",14,13,0
+"ewt-dev-219_21_19","ewt-dev-219","There is a classical logical fallacy , post hoc ergo propter hoc ( Z happens after X , therefore Z is caused by X ) , and I keep revising this posting this evening because I do n't want to fall into it .",21,19,0
+"ewt-dev-219_29_31","ewt-dev-219","There is a classical logical fallacy , post hoc ergo propter hoc ( Z happens after X , therefore Z is caused by X ) , and I keep revising this posting this evening because I do n't want to fall into it .",29,31,0
+"ewt-dev-223_6_5","ewt-dev-223",""" I have said and I repeat my expression of solidarity which Hassan Nasrallah called for to stand with Hamas , "" Shiite cleric Muqtada al - Sadr said Friday in a reference to Nasrallah , the leader of the militant Lebanese Shiite group Hezbollah .",6,5,0
+"ewt-dev-223_6_8","ewt-dev-223",""" I have said and I repeat my expression of solidarity which Hassan Nasrallah called for to stand with Hamas , "" Shiite cleric Muqtada al - Sadr said Friday in a reference to Nasrallah , the leader of the militant Lebanese Shiite group Hezbollah .",6,8,0
+"ewt-dev-223_28_27","ewt-dev-223",""" I have said and I repeat my expression of solidarity which Hassan Nasrallah called for to stand with Hamas , "" Shiite cleric Muqtada al - Sadr said Friday in a reference to Nasrallah , the leader of the militant Lebanese Shiite group Hezbollah .",28,27,0
+"ewt-dev-224_4_3","ewt-dev-224","Last month , Nasrallah announced that his party would close ranks with Hamas .",4,3,0
+"ewt-dev-224_9_7","ewt-dev-224","Last month , Nasrallah announced that his party would close ranks with Hamas .",9,7,0
+"ewt-dev-224_9_10","ewt-dev-224","Last month , Nasrallah announced that his party would close ranks with Hamas .",9,10,0
+"ewt-dev-225_5_3","ewt-dev-225",""" Let ( Hamas ) consider me their striking arm in Iraq because the fate of Iraq and Palestine is the same , "" al - Sadr said during a Friday prayer sermon in Kufa , his home base south of Baghdad .",5,3,0
+"ewt-dev-225_5_6","ewt-dev-225",""" Let ( Hamas ) consider me their striking arm in Iraq because the fate of Iraq and Palestine is the same , "" al - Sadr said during a Friday prayer sermon in Kufa , his home base south of Baghdad .",5,6,0
+"ewt-dev-225_27_26","ewt-dev-225",""" Let ( Hamas ) consider me their striking arm in Iraq because the fate of Iraq and Palestine is the same , "" al - Sadr said during a Friday prayer sermon in Kufa , his home base south of Baghdad .",27,26,0
+"ewt-dev-230_6_1","ewt-dev-230","Anthony Shadid of the Washington Post reveals that the warrants for the arrests had been issued months be for .",6,1,0
+"ewt-dev-230_15_9","ewt-dev-230","Anthony Shadid of the Washington Post reveals that the warrants for the arrests had been issued months be for .",15,9,1
+"ewt-dev-244_2_1","ewt-dev-244","jill allen finishes her cpa today and she and her friends are going to party .",2,1,0
+"ewt-dev-244_2_4","ewt-dev-244","jill allen finishes her cpa today and she and her friends are going to party .",2,4,0
+"ewt-dev-251_1_0","ewt-dev-251","i have to go to butt - fucking mississippi .",1,0,0
+"ewt-dev-254_1_0","ewt-dev-254","i think they are all bark and no bite .",1,0,0
+"ewt-dev-255_1_0","ewt-dev-255","i think they could get their asses kicked by cats .",1,0,0
+"ewt-dev-260_1_0","ewt-dev-260","i knew someone in college who had one and i loved it .",1,0,0
+"ewt-dev-260_1_2","ewt-dev-260","i knew someone in college who had one and i loved it .",1,2,0
+"ewt-dev-270_7_5","ewt-dev-270","The premise with which the administartion is acting is that if they expeditiously suspend everyone 's right to bilateral contracts quickly , it sets up a barrier which the direct access coalition must break through .",7,5,0
+"ewt-dev-270_8_1","ewt-dev-270","The premise with which the administartion is acting is that if they expeditiously suspend everyone 's right to bilateral contracts quickly , it sets up a barrier which the direct access coalition must break through .",8,1,0
+"ewt-dev-270_13_11","ewt-dev-270","The premise with which the administartion is acting is that if they expeditiously suspend everyone 's right to bilateral contracts quickly , it sets up a barrier which the direct access coalition must break through .",13,11,0
+"ewt-dev-270_13_16","ewt-dev-270","The premise with which the administartion is acting is that if they expeditiously suspend everyone 's right to bilateral contracts quickly , it sets up a barrier which the direct access coalition must break through .",13,16,0
+"ewt-dev-270_23_26","ewt-dev-270","The premise with which the administartion is acting is that if they expeditiously suspend everyone 's right to bilateral contracts quickly , it sets up a barrier which the direct access coalition must break through .",23,26,0
+"ewt-dev-270_33_31","ewt-dev-270","The premise with which the administartion is acting is that if they expeditiously suspend everyone 's right to bilateral contracts quickly , it sets up a barrier which the direct access coalition must break through .",33,31,0
+"ewt-dev-271_6_4","ewt-dev-271","In other words the table is set .",6,4,0
+"ewt-dev-287_9_2","ewt-dev-287","Any other use of the email by you is prohibited .",9,2,0
+"ewt-dev-293_1_0","ewt-dev-293","i satisfy your appetitie for lovin .",1,0,0
+"ewt-dev-293_1_3","ewt-dev-293","i satisfy your appetitie for lovin .",1,3,0
+"ewt-dev-300_1_0","ewt-dev-300","I enjoyed working with all of you during the past five years at Enron / Azurix , and I wish you all of the best .",1,0,0
+"ewt-dev-300_19_18","ewt-dev-300","I enjoyed working with all of you during the past five years at Enron / Azurix , and I wish you all of the best .",19,18,0
+"ewt-dev-300_19_20","ewt-dev-300","I enjoyed working with all of you during the past five years at Enron / Azurix , and I wish you all of the best .",19,20,0
+"ewt-dev-300_19_21","ewt-dev-300","I enjoyed working with all of you during the past five years at Enron / Azurix , and I wish you all of the best .",19,21,0
+"ewt-dev-320_3_1","ewt-dev-320",""" paulhastings.com "" made the following annotations on 04/25/01 12:42:55",3,1,0
+"ewt-dev-320_3_6","ewt-dev-320",""" paulhastings.com "" made the following annotations on 04/25/01 12:42:55",3,6,0
+"ewt-dev-323_7_5","ewt-dev-323","In most cases , our address is composed of conventional first name and last name plus @paulhastings.com .",7,5,0
+"ewt-dev-327_5_2","ewt-dev-327",""" The information transmitted is intended only for the person or entity to which it is addressed and may contain confidential and / or privileged material .",5,2,0
+"ewt-dev-327_16_14","ewt-dev-327",""" The information transmitted is intended only for the person or entity to which it is addressed and may contain confidential and / or privileged material .",16,14,1
+"ewt-dev-327_19_25","ewt-dev-327",""" The information transmitted is intended only for the person or entity to which it is addressed and may contain confidential and / or privileged material .",19,25,0
+"ewt-dev-328_32_1","ewt-dev-328","Any review , retransmission , dissemination or other use of , or taking of any action in reliance upon , this information by persons or entities other than the intended recipient is prohibited .",32,1,0
+"ewt-dev-344_1_0","ewt-dev-344","I spoke to Bruce Garcey at NiMo regarding their RFP .",1,0,0
+"ewt-dev-345_1_0","ewt-dev-345","Bruce indicated NiMo short listed five companies who all bid higher than ENA .",1,0,0
+"ewt-dev-345_4_2","ewt-dev-345","Bruce indicated NiMo short listed five companies who all bid higher than ENA .",4,2,0
+"ewt-dev-345_4_6","ewt-dev-345","Bruce indicated NiMo short listed five companies who all bid higher than ENA .",4,6,0
+"ewt-dev-345_9_6","ewt-dev-345","Bruce indicated NiMo short listed five companies who all bid higher than ENA .",9,6,0
+"ewt-dev-347_1_0","ewt-dev-347","He gave no indication on the value of the highest bid .",1,0,0
+"ewt-dev-347_1_3","ewt-dev-347","He gave no indication on the value of the highest bid .",1,3,0
+"ewt-dev-349_1_0","ewt-dev-349","NiMo released an additional RFP for peaking supplies for this winter , I believe Phil should have or be getting that RFP .",1,0,0
+"ewt-dev-349_1_4","ewt-dev-349","NiMo released an additional RFP for peaking supplies for this winter , I believe Phil should have or be getting that RFP .",1,4,0
+"ewt-dev-349_6_7","ewt-dev-349","NiMo released an additional RFP for peaking supplies for this winter , I believe Phil should have or be getting that RFP .",6,7,0
+"ewt-dev-349_13_12","ewt-dev-349","NiMo released an additional RFP for peaking supplies for this winter , I believe Phil should have or be getting that RFP .",13,12,0
+"ewt-dev-360_5_1","ewt-dev-360","The information contained herein is based on sources that we believe to be reliable , but we do not represent that it is accurate or complete .",5,1,0
+"ewt-dev-360_10_7","ewt-dev-360","The information contained herein is based on sources that we believe to be reliable , but we do not represent that it is accurate or complete .",10,7,0
+"ewt-dev-360_10_9","ewt-dev-360","The information contained herein is based on sources that we believe to be reliable , but we do not represent that it is accurate or complete .",10,9,0
+"ewt-dev-360_19_16","ewt-dev-360","The information contained herein is based on sources that we believe to be reliable , but we do not represent that it is accurate or complete .",19,16,0
+"ewt-dev-377_12_8","ewt-dev-377","On or about September 23 , 1999 a request for service was placed by the above referenced counterparty .",12,8,0
+"ewt-dev-379_3_1","ewt-dev-379","These agreements were forwarded to the counterparty , CCNG , Inc. .",3,1,1
+"ewt-dev-380_23_9","ewt-dev-380","On or about October 6 , 1999 , Kelly Cloud , Senior Vice President of CCNG , Inc. ( 713 ) 235-1972 , called and informed me that the counterparty should be CCGM , L.P. .",23,9,0
+"ewt-dev-380_25_26","ewt-dev-380","On or about October 6 , 1999 , Kelly Cloud , Senior Vice President of CCNG , Inc. ( 713 ) 235-1972 , called and informed me that the counterparty should be CCGM , L.P. .",25,26,0
+"ewt-dev-389_6_4","ewt-dev-389","A clean and redlined version are attached .",6,4,0
+"ewt-dev-390_1_0","ewt-dev-390","I revised the language based on our discussions and added the language concerning interest which we had both previously approved .",1,0,0
+"ewt-dev-390_1_3","ewt-dev-390","I revised the language based on our discussions and added the language concerning interest which we had both previously approved .",1,3,0
+"ewt-dev-390_9_11","ewt-dev-390","I revised the language based on our discussions and added the language concerning interest which we had both previously approved .",9,11,0
+"ewt-dev-390_19_11","ewt-dev-390","I revised the language based on our discussions and added the language concerning interest which we had both previously approved .",19,11,0
+"ewt-dev-390_19_15","ewt-dev-390","I revised the language based on our discussions and added the language concerning interest which we had both previously approved .",19,15,0
+"ewt-dev-399_1_0","ewt-dev-399","I survived it without a problem .",1,0,0
+"ewt-dev-399_1_2","ewt-dev-399","I survived it without a problem .",1,2,0
+"ewt-dev-407_4_2","ewt-dev-407","My old bed got tossed in a dumpster .",4,2,0
+"ewt-dev-413_1_0","ewt-dev-413","These look fine to me .",1,0,0
+"ewt-dev-435_1_0","ewt-dev-435","We hope you do !",1,0,0
+"ewt-dev-460_1_0","ewt-dev-460","I meant to comment that I thought the people profiled in the article should pull their heads out of their self important asses .",1,0,0
+"ewt-dev-460_14_8","ewt-dev-460","I meant to comment that I thought the people profiled in the article should pull their heads out of their self important asses .",14,8,0
+"ewt-dev-460_14_16","ewt-dev-460","I meant to comment that I thought the people profiled in the article should pull their heads out of their self important asses .",14,16,0
+"ewt-dev-473_1_5","ewt-dev-473","There are a few life theories like that which working through .",1,5,0
+"ewt-dev-479_3_0","ewt-dev-479","Traders over here seem to have a lot more respect for other humans .",3,0,0
+"ewt-dev-492_1_0","ewt-dev-492","Enron continues to feel free to move me around at will .",1,0,0
+"ewt-dev-492_6_7","ewt-dev-492","Enron continues to feel free to move me around at will .",6,7,0
+"ewt-dev-516_1_0","ewt-dev-516","You wear your heart on your sleeve ... and since you are an emotional person you are apt to give your all ... heart and soul ... to all those that show you a little affection ... but take care ... it would appear that you have been extremely hurt in the past ... and you keep leaving yourself wide open for punishment ..",1,0,0
+"ewt-dev-516_1_3","ewt-dev-516","You wear your heart on your sleeve ... and since you are an emotional person you are apt to give your all ... heart and soul ... to all those that show you a little affection ... but take care ... it would appear that you have been extremely hurt in the past ... and you keep leaving yourself wide open for punishment ..",1,3,0
+"ewt-dev-516_31_29","ewt-dev-516","You wear your heart on your sleeve ... and since you are an emotional person you are apt to give your all ... heart and soul ... to all those that show you a little affection ... but take care ... it would appear that you have been extremely hurt in the past ... and you keep leaving yourself wide open for punishment ..",31,29,0
+"ewt-dev-516_31_32","ewt-dev-516","You wear your heart on your sleeve ... and since you are an emotional person you are apt to give your all ... heart and soul ... to all those that show you a little affection ... but take care ... it would appear that you have been extremely hurt in the past ... and you keep leaving yourself wide open for punishment ..",31,32,0
+"ewt-dev-516_31_35","ewt-dev-516","You wear your heart on your sleeve ... and since you are an emotional person you are apt to give your all ... heart and soul ... to all those that show you a little affection ... but take care ... it would appear that you have been extremely hurt in the past ... and you keep leaving yourself wide open for punishment ..",31,35,0
+"ewt-dev-516_49_45","ewt-dev-516","You wear your heart on your sleeve ... and since you are an emotional person you are apt to give your all ... heart and soul ... to all those that show you a little affection ... but take care ... it would appear that you have been extremely hurt in the past ... and you keep leaving yourself wide open for punishment ..",49,45,0
+"ewt-dev-518_1_3","ewt-dev-518","There is no subterfuge in you .",1,3,0
+"ewt-dev-521_1_0","ewt-dev-521","You have no interest in "" two - timing "" and all you seek is sincerity and "" straight - dealing "" .",1,0,0
+"ewt-dev-521_1_3","ewt-dev-521","You have no interest in "" two - timing "" and all you seek is sincerity and "" straight - dealing "" .",1,3,0
+"ewt-dev-521_13_12","ewt-dev-521","You have no interest in "" two - timing "" and all you seek is sincerity and "" straight - dealing "" .",13,12,0
+"ewt-dev-522_1_0","ewt-dev-522","You wish to be left in peace ... no more conflict and no more differences of opinion ...",1,0,0
+"ewt-dev-524_3_0","ewt-dev-524","All you want is for "" them "" to get on with it - and to leave you alone ..",3,0,0
+"ewt-dev-535_0_4","ewt-dev-535","Attached is a new link for employees unable to attend the all - employee meeting today at 10 a.m. ( CDT ) at the Hyatt Regency Houston , Imperial Ballroom .",0,4,0
+"ewt-dev-535_9_14","ewt-dev-535","Attached is a new link for employees unable to attend the all - employee meeting today at 10 a.m. ( CDT ) at the Hyatt Regency Houston , Imperial Ballroom .",9,14,0
+"ewt-dev-539_1_0","ewt-dev-539","I tried to do it on the HRonline web - site , but the procedure is too complicated .",1,0,0
+"ewt-dev-548_1_0","ewt-dev-548","I anticipate completing the review of the Master Agreement form and submitting comments to you by Monday .",1,0,0
+"ewt-dev-548_2_4","ewt-dev-548","I anticipate completing the review of the Master Agreement form and submitting comments to you by Monday .",2,4,0
+"ewt-dev-548_11_12","ewt-dev-548","I anticipate completing the review of the Master Agreement form and submitting comments to you by Monday .",11,12,0
+"ewt-dev-580_0_3","ewt-dev-580","Attached is an image of the GISB .",0,3,1
+"ewt-dev-588_8_1","ewt-dev-588","The term "" Aggregate Transporter Imbalance "" is located in several sections .",8,1,0
+"ewt-dev-596_1_0","ewt-dev-596","These look fine to me .",1,0,0
+"ewt-dev-627_3_1","ewt-dev-627","The Guaranty is dated August 1 , 2000 .",3,1,0
+"ewt-dev-638_1_0","ewt-dev-638","I used to e-mail Vince Kaminski about the advice on his article "" The Challenge of Pricing and Risk Managing Electricity Derivatives "" and he had mailed me the copy .",1,0,0
+"ewt-dev-638_3_5","ewt-dev-638","I used to e-mail Vince Kaminski about the advice on his article "" The Challenge of Pricing and Risk Managing Electricity Derivatives "" and he had mailed me the copy .",3,5,0
+"ewt-dev-638_16_21","ewt-dev-638","I used to e-mail Vince Kaminski about the advice on his article "" The Challenge of Pricing and Risk Managing Electricity Derivatives "" and he had mailed me the copy .",16,21,0
+"ewt-dev-638_26_24","ewt-dev-638","I used to e-mail Vince Kaminski about the advice on his article "" The Challenge of Pricing and Risk Managing Electricity Derivatives "" and he had mailed me the copy .",26,24,0
+"ewt-dev-638_26_27","ewt-dev-638","I used to e-mail Vince Kaminski about the advice on his article "" The Challenge of Pricing and Risk Managing Electricity Derivatives "" and he had mailed me the copy .",26,27,0
+"ewt-dev-638_26_29","ewt-dev-638","I used to e-mail Vince Kaminski about the advice on his article "" The Challenge of Pricing and Risk Managing Electricity Derivatives "" and he had mailed me the copy .",26,29,1
+"ewt-dev-642_5_1","ewt-dev-642","The coefficient and standard error are as followed :",5,1,0
+"ewt-dev-671_4_0","ewt-dev-671","One of the students indicated that he is interested in a summer internship .",4,0,0
+"ewt-dev-678_1_0","ewt-dev-678","I hope you have a good flight back to home .",1,0,0
+"ewt-dev-683_2_1","ewt-dev-683","Those attachments are what I was asked .",2,1,0
+"ewt-dev-703_2_1","ewt-dev-703","This section pertains to terminated employees who are paid out in the year following the termination event .",2,1,0
+"ewt-dev-703_8_5","ewt-dev-703","This section pertains to terminated employees who are paid out in the year following the termination event .",8,5,0
+"ewt-dev-710_4_3","ewt-dev-710","As such , we have a CPA , Larry Lewis , working with us to audit and set up transition files .",4,3,0
+"ewt-dev-710_15_20","ewt-dev-710","As such , we have a CPA , Larry Lewis , working with us to audit and set up transition files .",15,20,0
+"ewt-dev-721_4_0","ewt-dev-721","Amount of Benefit Payments reads "" The value of the shares , and resulting payment amount will be based on the closing price of Enron Corp. common stock on the January 1 before the date of payment , and such payment shall be made in shares of Enron Corp. common stock . """,4,0,0
+"ewt-dev-721_18_7","ewt-dev-721","Amount of Benefit Payments reads "" The value of the shares , and resulting payment amount will be based on the closing price of Enron Corp. common stock on the January 1 before the date of payment , and such payment shall be made in shares of Enron Corp. common stock . """,18,7,0
+"ewt-dev-741_1_0","ewt-dev-741","I faxed you the promotional on 10300 Heritage Office Building with the Nimitz post office .",1,0,0
+"ewt-dev-741_1_2","ewt-dev-741","I faxed you the promotional on 10300 Heritage Office Building with the Nimitz post office .",1,2,0
+"ewt-dev-741_1_4","ewt-dev-741","I faxed you the promotional on 10300 Heritage Office Building with the Nimitz post office .",1,4,1
+"ewt-dev-748_1_0","ewt-dev-748","I tried to calculate the IRR on the port Aransas and Roma post offices .",1,0,0
+"ewt-dev-748_3_5","ewt-dev-748","I tried to calculate the IRR on the port Aransas and Roma post offices .",3,5,0
+"ewt-dev-750_3_2","ewt-dev-750","The Roma deal looks much better .",3,2,0
+"ewt-dev-753_1_0","ewt-dev-753","This sounds better than the limitations you were describing in the meeting .",1,0,0
+"ewt-dev-753_8_6","ewt-dev-753","This sounds better than the limitations you were describing in the meeting .",8,6,0
+"ewt-dev-759_5_0","ewt-dev-759","All you have to do is sign up for one free offer ( such as efax ) and then cancel within the offer time frame .",5,0,0
+"ewt-dev-762_1_0","ewt-dev-762","Site made !",1,0,0
+"ewt-dev-767_3_1","ewt-dev-767","This message was cancelled from within Mozilla .",3,1,0
+"ewt-dev-768_1_0","ewt-dev-768","I took a tip from Carri and looked up Rat ASCII's on Google .",1,0,0
+"ewt-dev-768_1_3","ewt-dev-768","I took a tip from Carri and looked up Rat ASCII's on Google .",1,3,0
+"ewt-dev-770_3_5","ewt-dev-770",""" ... there is no companion quite so devoted , so communicative , so loving and so mesmerizing as a rat . """,3,5,0
+"ewt-dev-779_7_6","ewt-dev-779","Based on specific intelligence inputs , Army arrested Ghulam Mohiuddin Lone , a LeT man , from Doda district .",7,6,0
+"ewt-dev-779_7_10","ewt-dev-779","Based on specific intelligence inputs , Army arrested Ghulam Mohiuddin Lone , a LeT man , from Doda district .",7,10,1
+"ewt-dev-780_7_5","ewt-dev-780","During the preliminary interrogation , Lone ' confessed ' his involvement in the blasts and gave several vital clues .",7,5,0
+"ewt-dev-780_7_10","ewt-dev-780","During the preliminary interrogation , Lone ' confessed ' his involvement in the blasts and gave several vital clues .",7,10,0
+"ewt-dev-786_6_4","ewt-dev-786","Capt. Spastic 's Demented World is located at : < >",6,4,0
+"ewt-dev-791_5_0","ewt-dev-791","All you have to do is become a member and watch your earnings grow !",5,0,0
+"ewt-dev-791_13_12","ewt-dev-791","All you have to do is become a member and watch your earnings grow !",13,12,0
+"ewt-dev-802_1_0","ewt-dev-802","I apologize for the following inconvenience , but I have decided to move this group to Yahoo , so that we can post files and photos and other useful things .",1,0,0
+"ewt-dev-802_10_8","ewt-dev-802","I apologize for the following inconvenience , but I have decided to move this group to Yahoo , so that we can post files and photos and other useful things .",10,8,0
+"ewt-dev-802_12_14","ewt-dev-802","I apologize for the following inconvenience , but I have decided to move this group to Yahoo , so that we can post files and photos and other useful things .",12,14,0
+"ewt-dev-802_22_20","ewt-dev-802","I apologize for the following inconvenience , but I have decided to move this group to Yahoo , so that we can post files and photos and other useful things .",22,20,0
+"ewt-dev-802_22_23","ewt-dev-802","I apologize for the following inconvenience , but I have decided to move this group to Yahoo , so that we can post files and photos and other useful things .",22,23,0
+"ewt-dev-807_5_4","ewt-dev-807","lol , last news message came out kinda weird , i was trying to browse the japanese website while i changed the text i was supposed to put up but i ran out of time so there are no real pictures yet ... but i 'll add the links soon sry .",5,4,0
+"ewt-dev-807_14_17","ewt-dev-807","lol , last news message came out kinda weird , i was trying to browse the japanese website while i changed the text i was supposed to put up but i ran out of time so there are no real pictures yet ... but i 'll add the links soon sry .",14,17,0
+"ewt-dev-807_20_19","ewt-dev-807","lol , last news message came out kinda weird , i was trying to browse the japanese website while i changed the text i was supposed to put up but i ran out of time so there are no real pictures yet ... but i 'll add the links soon sry .",20,19,0
+"ewt-dev-807_20_22","ewt-dev-807","lol , last news message came out kinda weird , i was trying to browse the japanese website while i changed the text i was supposed to put up but i ran out of time so there are no real pictures yet ... but i 'll add the links soon sry .",20,22,0
+"ewt-dev-807_25_23","ewt-dev-807","lol , last news message came out kinda weird , i was trying to browse the japanese website while i changed the text i was supposed to put up but i ran out of time so there are no real pictures yet ... but i 'll add the links soon sry .",25,23,0
+"ewt-dev-807_31_30","ewt-dev-807","lol , last news message came out kinda weird , i was trying to browse the japanese website while i changed the text i was supposed to put up but i ran out of time so there are no real pictures yet ... but i 'll add the links soon sry .",31,30,0
+"ewt-dev-807_46_44","ewt-dev-807","lol , last news message came out kinda weird , i was trying to browse the japanese website while i changed the text i was supposed to put up but i ran out of time so there are no real pictures yet ... but i 'll add the links soon sry .",46,44,0
+"ewt-dev-807_46_48","ewt-dev-807","lol , last news message came out kinda weird , i was trying to browse the japanese website while i changed the text i was supposed to put up but i ran out of time so there are no real pictures yet ... but i 'll add the links soon sry .",46,48,0
+"ewt-dev-819_1_0","ewt-dev-819","I got these pictures from tgs , look at all of them if you have time , they 're preety cool ...",1,0,0
+"ewt-dev-819_1_3","ewt-dev-819","I got these pictures from tgs , look at all of them if you have time , they 're preety cool ...",1,3,0
+"ewt-dev-835_1_0","ewt-dev-835","I have a friend that has to get rid of one of her cats because of allergies , he is the youngest at 3 years old black , long hair , incredibly friendly .",1,0,0
+"ewt-dev-835_1_3","ewt-dev-835","I have a friend that has to get rid of one of her cats because of allergies , he is the youngest at 3 years old black , long hair , incredibly friendly .",1,3,0
+"ewt-dev-836_1_0","ewt-dev-836","He comes with everything , litter box , carrier , ect .",1,0,1
+"ewt-dev-845_1_0","ewt-dev-845","cats react to the treatment they receive , they are not toys .",1,0,0
+"ewt-dev-877_16_1","ewt-dev-877","- Page 71 , 72 and 73 with 48 new pictures of cats and kittens are added to The Cat Album today .",16,1,0
+"ewt-dev-884_5_1","ewt-dev-884","The idea about this site is that the visitors can send in their own pictures and get them added to the album .",5,1,0
+"ewt-dev-884_18_17","ewt-dev-884","The idea about this site is that the visitors can send in their own pictures and get them added to the album .",18,17,0
+"ewt-dev-892_5_4","ewt-dev-892","Heh , yep , I like to wear silk chemises , panties even stockings with garter belt .",5,4,0
+"ewt-dev-892_7_9","ewt-dev-892","Heh , yep , I like to wear silk chemises , panties even stockings with garter belt .",7,9,0
+"ewt-dev-893_1_0","ewt-dev-893","I feel great in it .",1,0,0
+"ewt-dev-899_2_1","ewt-dev-899","My wife know my harmless secret and supports me .",2,1,0
+"ewt-dev-899_2_5","ewt-dev-899","My wife know my harmless secret and supports me .",2,5,0
+"ewt-dev-899_7_8","ewt-dev-899","My wife know my harmless secret and supports me .",7,8,0
+"ewt-dev-912_6_1","ewt-dev-912","Some countries like Malaysia and Singapore promote trading for foreign visitors during some part of the year .",6,1,0
+"ewt-dev-912_6_7","ewt-dev-912","Some countries like Malaysia and Singapore promote trading for foreign visitors during some part of the year .",6,7,0
+"ewt-dev-913_5_4","ewt-dev-913","During this period , they offer cheap air tickets to their country on certain flights .",5,4,0
+"ewt-dev-913_5_8","ewt-dev-913","During this period , they offer cheap air tickets to their country on certain flights .",5,8,0
+"ewt-dev-919_1_3","ewt-dev-919","It has two parts , both of which are timed for 90 seconds each and the differential between the resulting two scores determines the likelihood of having a learning disability or attention deficit disorder .",1,3,0
+"ewt-dev-919_9_5","ewt-dev-919","It has two parts , both of which are timed for 90 seconds each and the differential between the resulting two scores determines the likelihood of having a learning disability or attention deficit disorder .",9,5,0
+"ewt-dev-919_22_16","ewt-dev-919","It has two parts , both of which are timed for 90 seconds each and the differential between the resulting two scores determines the likelihood of having a learning disability or attention deficit disorder .",22,16,0
+"ewt-dev-919_22_24","ewt-dev-919","It has two parts , both of which are timed for 90 seconds each and the differential between the resulting two scores determines the likelihood of having a learning disability or attention deficit disorder .",22,24,0
+"ewt-dev-922_1_0","ewt-dev-922","I think a test like this one is much needed .",1,0,0
+"ewt-dev-948_18_17","ewt-dev-948","Once upon a time ( in 2001 , to be specific ) , the Coca - Cola corporation built a bottling plant in a small and remote Indian village in the state of Kerala .",18,17,0
+"ewt-dev-948_18_21","ewt-dev-948","Once upon a time ( in 2001 , to be specific ) , the Coca - Cola corporation built a bottling plant in a small and remote Indian village in the state of Kerala .",18,21,0
+"ewt-dev-949_3_5","ewt-dev-949","In exchange for sucking vast amounts of water out of the local land , the mighty corporation promised to bring the people great wealth .",3,5,0
+"ewt-dev-949_17_16","ewt-dev-949","In exchange for sucking vast amounts of water out of the local land , the mighty corporation promised to bring the people great wealth .",17,16,0
+"ewt-dev-949_19_21","ewt-dev-949","In exchange for sucking vast amounts of water out of the local land , the mighty corporation promised to bring the people great wealth .",19,21,0
+"ewt-dev-949_19_23","ewt-dev-949","In exchange for sucking vast amounts of water out of the local land , the mighty corporation promised to bring the people great wealth .",19,23,1
+"ewt-dev-950_10_9","ewt-dev-950","But within a few short months , the village people began to notice their wells were running dry , so they complained to the corporation .",10,9,0
+"ewt-dev-950_16_14","ewt-dev-950","But within a few short months , the village people began to notice their wells were running dry , so they complained to the corporation .",16,14,0
+"ewt-dev-950_21_20","ewt-dev-950","But within a few short months , the village people began to notice their wells were running dry , so they complained to the corporation .",21,20,0
+"ewt-dev-951_3_2","ewt-dev-951","Coca - Cola calmed the concerns of the people and attempted to win back their favor by giving them vast amounts of free fertilizer , saying it would grow bountiful crops beyond their wildest dreams .",3,2,0
+"ewt-dev-951_3_5","ewt-dev-951","Coca - Cola calmed the concerns of the people and attempted to win back their favor by giving them vast amounts of free fertilizer , saying it would grow bountiful crops beyond their wildest dreams .",3,5,0
+"ewt-dev-951_12_15","ewt-dev-951","Coca - Cola calmed the concerns of the people and attempted to win back their favor by giving them vast amounts of free fertilizer , saying it would grow bountiful crops beyond their wildest dreams .",12,15,0
+"ewt-dev-951_28_30","ewt-dev-951","Coca - Cola calmed the concerns of the people and attempted to win back their favor by giving them vast amounts of free fertilizer , saying it would grow bountiful crops beyond their wildest dreams .",28,30,0
+"ewt-dev-952_7_6","ewt-dev-952","After several years of use , we arrive at the present day when the village people have suddenly discovered the fertilizer is actually the bottling plant 's waste sludge and is laden with cadmium , a highly toxic , cancer - causing heavy metal .",7,6,0
+"ewt-dev-952_18_15","ewt-dev-952","After several years of use , we arrive at the present day when the village people have suddenly discovered the fertilizer is actually the bottling plant 's waste sludge and is laden with cadmium , a highly toxic , cancer - causing heavy metal .",18,15,0
+"ewt-dev-956_11_7","ewt-dev-956","The Greater New Orleans Fair Housing Action Center ( GNOFHAC ) filed a housing discrimination complaint against the Housing Authority of New Orleans ( HANO ) last week .",11,7,0
+"ewt-dev-956_11_15","ewt-dev-956","The Greater New Orleans Fair Housing Action Center ( GNOFHAC ) filed a housing discrimination complaint against the Housing Authority of New Orleans ( HANO ) last week .",11,15,0
+"ewt-dev-958_3_2","ewt-dev-958","The current complaints allege that HANO has not provided qualified former St. Thomas residents a preference with respect to available public housing units at River Garden per the 2003 agreement .",3,2,0
+"ewt-dev-958_8_5","ewt-dev-958","The current complaints allege that HANO has not provided qualified former St. Thomas residents a preference with respect to available public housing units at River Garden per the 2003 agreement .",8,5,0
+"ewt-dev-958_8_13","ewt-dev-958","The current complaints allege that HANO has not provided qualified former St. Thomas residents a preference with respect to available public housing units at River Garden per the 2003 agreement .",8,13,0
+"ewt-dev-958_8_15","ewt-dev-958","The current complaints allege that HANO has not provided qualified former St. Thomas residents a preference with respect to available public housing units at River Garden per the 2003 agreement .",8,15,0
+"ewt-dev-962_8_7","ewt-dev-962","As such , it is essential that HANO comply with 2003 enforcement agreement , "" said James Perry , GNOFHAC Executive Director",8,7,0
+"ewt-dev-962_15_17","ewt-dev-962","As such , it is essential that HANO comply with 2003 enforcement agreement , "" said James Perry , GNOFHAC Executive Director",15,17,0
+"ewt-dev-965_13_4","ewt-dev-965","In London , the price of Brent North Sea crude for November delivery advanced 53 cents to 64.73 dollars .",13,4,0
+"ewt-dev-967_5_4","ewt-dev-967","The US National Hurricane Center said Rita was "" extremely dangerous "" and could become a top - level category five storm on the Saffir - Simpson scale .",5,4,0
+"ewt-dev-968_2_1","ewt-dev-968","The storm threatened oil installations in the Gulf of Mexico where about one - quarter of US oil operations are based .",2,1,0
+"ewt-dev-968_2_4","ewt-dev-968","The storm threatened oil installations in the Gulf of Mexico where about one - quarter of US oil operations are based .",2,4,0
+"ewt-dev-968_20_14","ewt-dev-968","The storm threatened oil installations in the Gulf of Mexico where about one - quarter of US oil operations are based .",20,14,0
+"ewt-dev-970_4_3","ewt-dev-970","In Texas , BP shut its 460,000 barrels per day refinery and Marathon shut its 72,000 bpd plant .",4,3,0
+"ewt-dev-970_4_10","ewt-dev-970","In Texas , BP shut its 460,000 barrels per day refinery and Marathon shut its 72,000 bpd plant .",4,10,0
+"ewt-dev-970_13_12","ewt-dev-970","In Texas , BP shut its 460,000 barrels per day refinery and Marathon shut its 72,000 bpd plant .",13,12,0
+"ewt-dev-970_13_17","ewt-dev-970","In Texas , BP shut its 460,000 barrels per day refinery and Marathon shut its 72,000 bpd plant .",13,17,0
+"ewt-dev-971_1_0","ewt-dev-971","Valero said it was reducing rates at its 243,000 bpd Texas City refinery and its 85,000 bpd Houston refinery .",1,0,0
+"ewt-dev-971_4_5","ewt-dev-971","Valero said it was reducing rates at its 243,000 bpd Texas City refinery and its 85,000 bpd Houston refinery .",4,5,0
+"ewt-dev-972_2_1","ewt-dev-972","Exxon Mobil released nonessential staff from two giant Texas plants .",2,1,0
+"ewt-dev-972_2_4","ewt-dev-972","Exxon Mobil released nonessential staff from two giant Texas plants .",2,4,0
+"ewt-dev-973_4_3","ewt-dev-973","Last month , Katrina devastated refineries in Louisiana and Mississippi and sent prices to a record high of 70.85 dollars a barrel .",4,3,0
+"ewt-dev-973_4_5","ewt-dev-973","Last month , Katrina devastated refineries in Louisiana and Mississippi and sent prices to a record high of 70.85 dollars a barrel .",4,5,0
+"ewt-dev-979_24_26","ewt-dev-979",""" It 's not cost - effective doing station flights while at the same time focusing on getting back to the Moon , "" says Brett Alexander , vice-president of Transformational Space , one of the companies hoping to launch astronauts to the ISS .",24,26,0
+"ewt-dev-979_39_40","ewt-dev-979",""" It 's not cost - effective doing station flights while at the same time focusing on getting back to the Moon , "" says Brett Alexander , vice-president of Transformational Space , one of the companies hoping to launch astronauts to the ISS .",39,40,0
+"ewt-dev-984_8_7","ewt-dev-984","On 3 November , NASA administrator Michael Griffin told the US house science committee that the agency expects to invest about $ 500 million in the commercial cargo and crew project over five years .",8,7,0
+"ewt-dev-984_8_13","ewt-dev-984","On 3 November , NASA administrator Michael Griffin told the US house science committee that the agency expects to invest about $ 500 million in the commercial cargo and crew project over five years .",8,13,0
+"ewt-dev-984_17_16","ewt-dev-984","On 3 November , NASA administrator Michael Griffin told the US house science committee that the agency expects to invest about $ 500 million in the commercial cargo and crew project over five years .",17,16,0
+"ewt-dev-984_19_21","ewt-dev-984","On 3 November , NASA administrator Michael Griffin told the US house science committee that the agency expects to invest about $ 500 million in the commercial cargo and crew project over five years .",19,21,0
+"ewt-dev-985_14_16","ewt-dev-985",""" That kind of a financial incentive [ ... ] will be sufficient to allow substantial providers to emerge , "" Griffin said .",14,16,0
+"ewt-dev-985_22_21","ewt-dev-985",""" That kind of a financial incentive [ ... ] will be sufficient to allow substantial providers to emerge , "" Griffin said .",22,21,0
+"ewt-dev-986_2_1","ewt-dev-986",""" I hope that industry , if put to the test , can do better [ than the government ] , but I do not expect it , "" Griffin added .",2,1,0
+"ewt-dev-986_25_22","ewt-dev-986",""" I hope that industry , if put to the test , can do better [ than the government ] , but I do not expect it , "" Griffin added .",25,22,0
+"ewt-dev-986_25_26","ewt-dev-986",""" I hope that industry , if put to the test , can do better [ than the government ] , but I do not expect it , "" Griffin added .",25,26,0
+"ewt-dev-986_30_29","ewt-dev-986",""" I hope that industry , if put to the test , can do better [ than the government ] , but I do not expect it , "" Griffin added .",30,29,0
+"ewt-dev-996_19_2","ewt-dev-996","Interim Palestinian leader and the front - runner in the upcoming Jan. 9 , 2005 presidential election Mahmoud Abbas talks during his first official campaign speech in the West Bank town of Ramallah , Saturday Dec. 25 , 2004 .",19,2,0
+"ewt-dev-1002_16_0","ewt-dev-1002","Abbas , a refugee himself from what is today the northern Israeli city of Safed , called the refugee issue "" very important and very dangerous . """,16,0,0
+"ewt-dev-1002_16_19","ewt-dev-1002","Abbas , a refugee himself from what is today the northern Israeli city of Safed , called the refugee issue "" very important and very dangerous . """,16,19,0
+"ewt-dev-1013_7_6","ewt-dev-1013","In response to the rockets , Israel resumed its policy of targeting militant leaders in air strikes .",7,6,0
+"ewt-dev-1013_7_9","ewt-dev-1013","In response to the rockets , Israel resumed its policy of targeting militant leaders in air strikes .",7,9,0
+"ewt-dev-1013_11_13","ewt-dev-1013","In response to the rockets , Israel resumed its policy of targeting militant leaders in air strikes .",11,13,0
+"ewt-dev-1020_24_26","ewt-dev-1020",""" We 're not happy with Hamas 's position at this stage and in light of the Israeli escalation against the Palestinians , "" commented Khader Habib , a senior Islamic Jihad official .",24,26,0
+"ewt-dev-1023_16_20","ewt-dev-1023",""" The problem is not with the Palestinian resistance groups but with Israel 's scheme to destroy the Palestinians ' infrastructure , "" Habib said .",16,20,0
+"ewt-dev-1023_24_23","ewt-dev-1023",""" The problem is not with the Palestinian resistance groups but with Israel 's scheme to destroy the Palestinians ' infrastructure , "" Habib said .",24,23,0
+"ewt-dev-1024_2_1","ewt-dev-1024",""" Hamas remains targeted by Israel , as in the past , and the Israeli occupation does not need excuses to pursue its aggression .",2,1,0
+"ewt-dev-1024_21_23","ewt-dev-1024",""" Hamas remains targeted by Israel , as in the past , and the Israeli occupation does not need excuses to pursue its aggression .",21,23,0
+"ewt-dev-1025_1_0","ewt-dev-1025","Israel wants to drive the Palestinians toward civil war . """,1,0,0
+"ewt-dev-1025_3_5","ewt-dev-1025","Israel wants to drive the Palestinians toward civil war . """,3,5,0
+"ewt-dev-1041_1_0","ewt-dev-1041","you mean miramar florida theyy have good seafood there",1,0,0
+"ewt-dev-1041_1_2","ewt-dev-1041","you mean miramar florida theyy have good seafood there",1,2,0
+"ewt-dev-1047_1_2","ewt-dev-1047","There are several just off their beautiful beach .",1,2,0
+"ewt-dev-1063_1_0","ewt-dev-1063","I assume you mean the crazy horse memorial .",1,0,0
+"ewt-dev-1063_3_2","ewt-dev-1063","I assume you mean the crazy horse memorial .",3,2,0
+"ewt-dev-1063_3_7","ewt-dev-1063","I assume you mean the crazy horse memorial .",3,7,0
+"ewt-dev-1064_1_0","ewt-dev-1064","they have their own website which you can easily find using any search engine .",1,0,0
+"ewt-dev-1064_1_4","ewt-dev-1064","they have their own website which you can easily find using any search engine .",1,4,0
+"ewt-dev-1083_2_0","ewt-dev-1083","It was incorporated as a city on May 26 , 1955 .",2,0,0
+"ewt-dev-1084_2_0","ewt-dev-1084","Miramar was founded September 20 1888 .",2,0,0
+"ewt-dev-1086_6_1","ewt-dev-1086","Certain elements of the travelling community engage in this activity , but overall no not really .",6,1,0
+"ewt-dev-1088_8_1","ewt-dev-1088","some members of the traveler community bare knuckle box .",8,1,0
+"ewt-dev-1093_1_0","ewt-dev-1093","I want to party hardy for my birthday :)",1,0,0
+"ewt-dev-1096_1_0","ewt-dev-1096","They bulk up too much space",1,0,0
+"ewt-dev-1096_1_5","ewt-dev-1096","They bulk up too much space",1,5,0
+"ewt-dev-1097_1_0","ewt-dev-1097","I gave mine to a rest home for senior citizens and an old soldiers ' home .",1,0,0
+"ewt-dev-1097_1_2","ewt-dev-1097","I gave mine to a rest home for senior citizens and an old soldiers ' home .",1,2,1
+"ewt-dev-1102_1_0","ewt-dev-1102","I have a cat named GummiBear , so no , R2D2 is not a stupid name .",1,0,0
+"ewt-dev-1102_1_3","ewt-dev-1102","I have a cat named GummiBear , so no , R2D2 is not a stupid name .",1,3,0
+"ewt-dev-1130_1_0","ewt-dev-1130","Eurostar runs from London St Pancras station .",1,0,0
+"ewt-dev-1133_1_3","ewt-dev-1133","It says business casual but I know this can be interpreted in many ways .",1,3,0
+"ewt-dev-1133_10_7","ewt-dev-1133","It says business casual but I know this can be interpreted in many ways .",10,7,0
+"ewt-dev-1142_2_1","ewt-dev-1142","Well you say Miramar I say Piramar",2,1,0
+"ewt-dev-1142_2_3","ewt-dev-1142","Well you say Miramar I say Piramar",2,3,0
+"ewt-dev-1147_1_5","ewt-dev-1147","There are way more stranger names in the U.S for areas than Miramar .",1,5,0
+"ewt-dev-1148_1_0","ewt-dev-1148","i think Miramar was a famous goat trainer or something .",1,0,0
+"ewt-dev-1149_1_0","ewt-dev-1149","He deserved respect",1,0,0
+"ewt-dev-1149_1_2","ewt-dev-1149","He deserved respect",1,2,0
+"ewt-dev-1176_1_0","ewt-dev-1176","You need a background in law enforcement .",1,0,0
+"ewt-dev-1176_1_3","ewt-dev-1176","You need a background in law enforcement .",1,3,0
+"ewt-dev-1194_2_1","ewt-dev-1194","The S100 has a slightly larger screen and the new digic 5 processor .",2,1,0
+"ewt-dev-1194_2_6","ewt-dev-1194","The S100 has a slightly larger screen and the new digic 5 processor .",2,6,0
+"ewt-dev-1214_5_0","ewt-dev-1214","What is this irish tune called !?",5,0,0
+"ewt-dev-1214_5_4","ewt-dev-1214","What is this irish tune called !?",5,4,0
+"ewt-dev-1223_1_0","ewt-dev-1223","I like Hayes Street Grill .... another plus , it 's right by Civic Center , so you can take a romantic walk around the Opera House , City Hall , Symphony Auditorium ... all very beautiful .",1,0,0
+"ewt-dev-1223_1_4","ewt-dev-1223","I like Hayes Street Grill .... another plus , it 's right by Civic Center , so you can take a romantic walk around the Opera House , City Hall , Symphony Auditorium ... all very beautiful .",1,4,0
+"ewt-dev-1240_1_0","ewt-dev-1240","You voted on the Dominion Posts website .",1,0,0
+"ewt-dev-1243_1_0","ewt-dev-1243","Wellywood looks rather cheap and tacky",1,0,0
+"ewt-dev-1253_5_4","ewt-dev-1253","and around what time they eat each of their meals .",5,4,0
+"ewt-dev-1253_5_6","ewt-dev-1253","and around what time they eat each of their meals .",5,6,0
+"ewt-dev-1254_4_1","ewt-dev-1254","Edible ones , I hope - beef , pork , chicken , fish ...",4,1,0
+"ewt-dev-1254_4_3","ewt-dev-1254","Edible ones , I hope - beef , pork , chicken , fish ...",4,3,0
+"ewt-dev-1256_1_0","ewt-dev-1256","they eat lots of grilled meat , chorizo , and such , with potatoes",1,0,0
+"ewt-dev-1256_1_2","ewt-dev-1256","they eat lots of grilled meat , chorizo , and such , with potatoes",1,2,0
+"ewt-dev-1277_1_0","ewt-dev-1277","i need to hav sm good time spent with my gf .. in kerala .. in which all places in kerala shal i expect ambience and privacy for making love .. pls help . thank you",1,0,0
+"ewt-dev-1277_3_6","ewt-dev-1277","i need to hav sm good time spent with my gf .. in kerala .. in which all places in kerala shal i expect ambience and privacy for making love .. pls help . thank you",3,6,0
+"ewt-dev-1277_23_22","ewt-dev-1277","i need to hav sm good time spent with my gf .. in kerala .. in which all places in kerala shal i expect ambience and privacy for making love .. pls help . thank you",23,22,0
+"ewt-dev-1277_23_24","ewt-dev-1277","i need to hav sm good time spent with my gf .. in kerala .. in which all places in kerala shal i expect ambience and privacy for making love .. pls help . thank you",23,24,0
+"ewt-dev-1292_1_2","ewt-dev-1292","There 's lots of towns called Miramar , it 'd help a lot if you listed a state or some sort of context you 're looking for it in .",1,2,0
+"ewt-dev-1292_15_14","ewt-dev-1292","There 's lots of towns called Miramar , it 'd help a lot if you listed a state or some sort of context you 're looking for it in .",15,14,0
+"ewt-dev-1292_15_17","ewt-dev-1292","There 's lots of towns called Miramar , it 'd help a lot if you listed a state or some sort of context you 're looking for it in .",15,17,0
+"ewt-dev-1299_2_1","ewt-dev-1299","amd i like 2 guys",2,1,0
+"ewt-dev-1299_2_4","ewt-dev-1299","amd i like 2 guys",2,4,0
+"ewt-dev-1304_1_0","ewt-dev-1304","who se better looking ?",1,0,0
+"ewt-dev-1331_1_0","ewt-dev-1331","you need to bring me next time",1,0,0
+"ewt-dev-1331_3_4","ewt-dev-1331","you need to bring me next time",3,4,0
+"ewt-dev-1334_1_0","ewt-dev-1334","I searched all over the internet , but I could not find one place in Tampa Bay that sells morcillas , also known as blood pudding , black pudding and blood sausages .",1,0,0
+"ewt-dev-1334_18_13","ewt-dev-1334","I searched all over the internet , but I could not find one place in Tampa Bay that sells morcillas , also known as blood pudding , black pudding and blood sausages .",18,13,0
+"ewt-dev-1334_18_19","ewt-dev-1334","I searched all over the internet , but I could not find one place in Tampa Bay that sells morcillas , also known as blood pudding , black pudding and blood sausages .",18,19,1
+"ewt-dev-1335_1_0","ewt-dev-1335","I learned that morcillas are basically impossible to find all across the North American region .",1,0,0
+"ewt-dev-1348_1_3","ewt-dev-1348","There are UP Govt .",1,3,0
+"ewt-dev-1354_1_0","ewt-dev-1354","i want to be able to use it in my car , out n about etc ... i guess like an iphone , but that s later on and , i know what they are so no suggestions on just goin out to buy one i m talking about right now just for an ipod ??.",1,0,0
+"ewt-dev-1354_18_17","ewt-dev-1354","i want to be able to use it in my car , out n about etc ... i guess like an iphone , but that s later on and , i know what they are so no suggestions on just goin out to buy one i m talking about right now just for an ipod ??.",18,17,0
+"ewt-dev-1354_25_24","ewt-dev-1354","i want to be able to use it in my car , out n about etc ... i guess like an iphone , but that s later on and , i know what they are so no suggestions on just goin out to buy one i m talking about right now just for an ipod ??.",25,24,0
+"ewt-dev-1354_43_44","ewt-dev-1354","i want to be able to use it in my car , out n about etc ... i guess like an iphone , but that s later on and , i know what they are so no suggestions on just goin out to buy one i m talking about right now just for an ipod ??.",43,44,1
+"ewt-dev-1354_47_45","ewt-dev-1354","i want to be able to use it in my car , out n about etc ... i guess like an iphone , but that s later on and , i know what they are so no suggestions on just goin out to buy one i m talking about right now just for an ipod ??.",47,45,0
+"ewt-dev-1355_1_0","ewt-dev-1355","You got ta get an iPhone for 3G ... only way ... actually there is a thing that you pay for monthly that gets wifi from satellite and you can connect to it anywhere but you have to Cary it with you",1,0,0
+"ewt-dev-1355_19_18","ewt-dev-1355","You got ta get an iPhone for 3G ... only way ... actually there is a thing that you pay for monthly that gets wifi from satellite and you can connect to it anywhere but you have to Cary it with you",19,18,0
+"ewt-dev-1355_30_28","ewt-dev-1355","You got ta get an iPhone for 3G ... only way ... actually there is a thing that you pay for monthly that gets wifi from satellite and you can connect to it anywhere but you have to Cary it with you",30,28,0
+"ewt-dev-1355_38_39","ewt-dev-1355","You got ta get an iPhone for 3G ... only way ... actually there is a thing that you pay for monthly that gets wifi from satellite and you can connect to it anywhere but you have to Cary it with you",38,39,0
+"ewt-dev-1360_1_0","ewt-dev-1360","i need to know how they are different and alike in these area's",1,0,0
+"ewt-dev-1378_1_0","ewt-dev-1378","I love her . :)",1,0,0
+"ewt-dev-1378_1_2","ewt-dev-1378","I love her . :)",1,2,0
+"ewt-dev-1379_1_0","ewt-dev-1379","I have a Norwegian Forest Cat that is named Achilles bc as a kitten he always attacked your feet when you walked by !",1,0,0
+"ewt-dev-1379_1_5","ewt-dev-1379","I have a Norwegian Forest Cat that is named Achilles bc as a kitten he always attacked your feet when you walked by !",1,5,1
+"ewt-dev-1379_8_5","ewt-dev-1379","I have a Norwegian Forest Cat that is named Achilles bc as a kitten he always attacked your feet when you walked by !",8,5,0
+"ewt-dev-1379_16_14","ewt-dev-1379","I have a Norwegian Forest Cat that is named Achilles bc as a kitten he always attacked your feet when you walked by !",16,14,0
+"ewt-dev-1379_16_18","ewt-dev-1379","I have a Norwegian Forest Cat that is named Achilles bc as a kitten he always attacked your feet when you walked by !",16,18,0
+"ewt-dev-1379_21_20","ewt-dev-1379","I have a Norwegian Forest Cat that is named Achilles bc as a kitten he always attacked your feet when you walked by !",21,20,0
+"ewt-dev-1394_1_0","ewt-dev-1394","I have a day stop - over in San Francisco and my wife want to see some of the key sites .",1,0,0
+"ewt-dev-1394_1_6","ewt-dev-1394","I have a day stop - over in San Francisco and my wife want to see some of the key sites .",1,6,0
+"ewt-dev-1397_2_1","ewt-dev-1397","( We check in early afternoon and we fly next day . )",2,1,0
+"ewt-dev-1397_8_7","ewt-dev-1397","( We check in early afternoon and we fly next day . )",8,7,0
+"ewt-dev-1413_2_1","ewt-dev-1413","My Hamster escaped .... NEED HELP NOW !?",2,1,0
+"ewt-dev-1414_3_2","ewt-dev-1414","okay .... I have a dog and my mother is really really terrified of hamsters .",3,2,0
+"ewt-dev-1414_3_5","ewt-dev-1414","okay .... I have a dog and my mother is really really terrified of hamsters .",3,5,0
+"ewt-dev-1417_1_0","ewt-dev-1417","I have lots of containers in there .",1,0,0
+"ewt-dev-1417_1_2","ewt-dev-1417","I have lots of containers in there .",1,2,0
+"ewt-dev-1427_1_0","ewt-dev-1427","i want a small indoor pet that my mother will let me have please help",1,0,0
+"ewt-dev-1427_1_5","ewt-dev-1427","i want a small indoor pet that my mother will let me have please help",1,5,0
+"ewt-dev-1427_10_8","ewt-dev-1427","i want a small indoor pet that my mother will let me have please help",10,8,0
+"ewt-dev-1427_10_11","ewt-dev-1427","i want a small indoor pet that my mother will let me have please help",10,11,0
+"ewt-dev-1428_1_0","ewt-dev-1428","i want something cheap east to take care of and something to hopefully fit in my room",1,0,0
+"ewt-dev-1428_1_2","ewt-dev-1428","i want something cheap east to take care of and something to hopefully fit in my room",1,2,0
+"ewt-dev-1430_2_0","ewt-dev-1430","they all need love and attn , food , proper surroundings etc .",2,0,0
+"ewt-dev-1430_2_3","ewt-dev-1430","they all need love and attn , food , proper surroundings etc .",2,3,0
+"ewt-dev-1434_1_0","ewt-dev-1434","They require a lot of attention or they get fussy and tear stuff up .",1,0,0
+"ewt-dev-1434_1_3","ewt-dev-1434","They require a lot of attention or they get fussy and tear stuff up .",1,3,0
+"ewt-dev-1434_11_12","ewt-dev-1434","They require a lot of attention or they get fussy and tear stuff up .",11,12,0
+"ewt-dev-1449_1_0","ewt-dev-1449","rug works for me",1,0,0
+"ewt-dev-1453_1_0","ewt-dev-1453","I love the meat !",1,0,0
+"ewt-dev-1453_1_3","ewt-dev-1453","I love the meat !",1,3,0
+"ewt-dev-1464_2_1","ewt-dev-1464","The food tasted like rat feces",2,1,0
+"ewt-dev-1480_1_3","ewt-dev-1480","There is no delivery .",1,3,0
+"ewt-dev-1481_1_3","ewt-dev-1481","There is no delivery .",1,3,0
+"ewt-dev-1498_2_1","ewt-dev-1498","Dr Joseph retired .",2,1,0
+"ewt-dev-1519_2_1","ewt-dev-1519","Midtown Reston has great location and luxurious environment .",2,1,0
+"ewt-dev-1519_2_4","ewt-dev-1519","Midtown Reston has great location and luxurious environment .",2,4,0
+"ewt-dev-1534_2_5","ewt-dev-1534","+ there is a free cola with every pizza .",2,5,1
+"ewt-dev-1594_14_4","ewt-dev-1594","Teachers good Diverse student body ( African - American , Asian , ect. ) equals kids staying here !",14,4,0
+"ewt-dev-1594_16_15","ewt-dev-1594","Teachers good Diverse student body ( African - American , Asian , ect. ) equals kids staying here !",16,15,0
+"ewt-dev-1598_1_0","ewt-dev-1598","They did a vehicle wrap for my Toyota Venza that looks amazing .",1,0,0
+"ewt-dev-1598_1_4","ewt-dev-1598","They did a vehicle wrap for my Toyota Venza that looks amazing .",1,4,0
+"ewt-dev-1621_1_0","ewt-dev-1621","I heard the libido band play live and they are out of site !!",1,0,0
+"ewt-dev-1621_1_4","ewt-dev-1621","I heard the libido band play live and they are out of site !!",1,4,0
+"ewt-dev-1636_1_0","ewt-dev-1636","They have good sushi for a good price .",1,0,0
+"ewt-dev-1636_1_3","ewt-dev-1636","They have good sushi for a good price .",1,3,0
+"ewt-dev-1670_3_1","ewt-dev-1670","The shop is located just off the river road .",3,1,0
+"ewt-dev-1699_1_0","ewt-dev-1699","I had a dead battery last week and called this company since they were the closest they had very quick service for a Monday morning , thanks again guys .",1,0,0
+"ewt-dev-1699_1_4","ewt-dev-1699","I had a dead battery last week and called this company since they were the closest they had very quick service for a Monday morning , thanks again guys .",1,4,0
+"ewt-dev-1700_1_0","ewt-dev-1700","I won a golf lesson certificate with Adz through a charity auction .",1,0,0
+"ewt-dev-1700_1_5","ewt-dev-1700","I won a golf lesson certificate with Adz through a charity auction .",1,5,1
+"ewt-dev-1701_3_1","ewt-dev-1701","The lesson was donated by the teacher Adz .",3,1,0
+"ewt-dev-1706_1_0","ewt-dev-1706","That 's what I call customer service !",1,0,0
+"ewt-dev-1736_1_0","ewt-dev-1736","I had so many strawberries right on the field ... strongly recomend ... do nt forget to try their great ice cream",1,0,0
+"ewt-dev-1736_1_4","ewt-dev-1736","I had so many strawberries right on the field ... strongly recomend ... do nt forget to try their great ice cream",1,4,0
+"ewt-dev-1759_1_0","ewt-dev-1759","We had a fantastic time .",1,0,0
+"ewt-dev-1759_1_4","ewt-dev-1759","We had a fantastic time .",1,4,0
+"ewt-dev-1773_1_5","ewt-dev-1773","There are a couple decent people working there , but the rest are VERY dishonest , as well as rude , I have yet to hear the truth come out of their mouths .",1,5,0
+"ewt-dev-1773_25_27","ewt-dev-1773","There are a couple decent people working there , but the rest are VERY dishonest , as well as rude , I have yet to hear the truth come out of their mouths .",25,27,0
+"ewt-dev-1778_1_0","ewt-dev-1778","I loved the atmosphere here and the food is good , however the tables are so close together that it feels very cramped .",1,0,0
+"ewt-dev-1778_1_3","ewt-dev-1778","I loved the atmosphere here and the food is good , however the tables are so close together that it feels very cramped .",1,3,0
+"ewt-dev-1779_2_0","ewt-dev-1779","We were made to feel very welcome .",2,0,0
+"ewt-dev-1784_1_0","ewt-dev-1784","She answers all questions asked and provides the best service i have ever seen .",1,0,0
+"ewt-dev-1784_1_3","ewt-dev-1784","She answers all questions asked and provides the best service i have ever seen .",1,3,0
+"ewt-dev-1784_6_9","ewt-dev-1784","She answers all questions asked and provides the best service i have ever seen .",6,9,0
+"ewt-dev-1785_1_0","ewt-dev-1785","I have a new born daughter and she helped me with a lot .",1,0,0
+"ewt-dev-1785_1_5","ewt-dev-1785","I have a new born daughter and she helped me with a lot .",1,5,0
+"ewt-dev-1791_1_0","ewt-dev-1791","I found the office to be very clean and professional - looking .",1,0,0
+"ewt-dev-1791_1_3","ewt-dev-1791","I found the office to be very clean and professional - looking .",1,3,0
+"ewt-dev-1796_1_0","ewt-dev-1796","I crave those .",1,0,0
+"ewt-dev-1796_1_2","ewt-dev-1796","I crave those .",1,2,0
+"ewt-dev-1798_1_0","ewt-dev-1798","She has a great way with children and is able to capture their personality as well as many spontaneous images .",1,0,0
+"ewt-dev-1798_1_4","ewt-dev-1798","She has a great way with children and is able to capture their personality as well as many spontaneous images .",1,4,0
+"ewt-dev-1798_11_13","ewt-dev-1798","She has a great way with children and is able to capture their personality as well as many spontaneous images .",11,13,0
+"ewt-dev-1802_1_0","ewt-dev-1802","I wish I could have a slice for every single meal .",1,0,0
+"ewt-dev-1815_1_0","ewt-dev-1815","We had a great stay , your service was excellent and we will use you again !",1,0,0
+"ewt-dev-1815_1_4","ewt-dev-1815","We had a great stay , your service was excellent and we will use you again !",1,4,0
+"ewt-dev-1818_2_1","ewt-dev-1818","The images turned out amazing .",2,1,0
+"ewt-dev-1823_11_10","ewt-dev-1823","It is a cloth napkin kind of place , but I thought well worth it .",11,10,0
+"ewt-dev-1836_1_0","ewt-dev-1836","I used Birdies for our Annual Walk Against Drugs and Alcohol event .",1,0,0
+"ewt-dev-1836_1_2","ewt-dev-1836","I used Birdies for our Annual Walk Against Drugs and Alcohol event .",1,2,0
+"ewt-dev-1842_1_0","ewt-dev-1842","We have Hobby Lobby , Just for Fun Fabrics , Walmart , and Interior Mall just inside Barling .",1,0,0
+"ewt-dev-1842_1_3","ewt-dev-1842","We have Hobby Lobby , Just for Fun Fabrics , Walmart , and Interior Mall just inside Barling .",1,3,0
+"ewt-dev-1844_8_7","ewt-dev-1844","It was ok , nice management , they let us check in early , but the place was old .",8,7,0
+"ewt-dev-1844_8_9","ewt-dev-1844","It was ok , nice management , they let us check in early , but the place was old .",8,9,0
+"ewt-dev-1861_3_2","ewt-dev-1861","Hyatt web site improved .",3,2,0
+"ewt-dev-1877_1_0","ewt-dev-1877","I loved my stay here and if ever back in the area , I will be staying here again .",1,0,0
+"ewt-dev-1877_1_3","ewt-dev-1877","I loved my stay here and if ever back in the area , I will be staying here again .",1,3,0
+"ewt-dev-1877_16_13","ewt-dev-1877","I loved my stay here and if ever back in the area , I will be staying here again .",16,13,0
+"ewt-dev-1897_4_3","ewt-dev-1897","The First time I walked in there with my teacup chihuahua puppy I knew I 'd be here a lot .",4,3,0
+"ewt-dev-1897_13_12","ewt-dev-1897","The First time I walked in there with my teacup chihuahua puppy I knew I 'd be here a lot .",13,12,0
+"ewt-dev-1898_2_1","ewt-dev-1898","Pets Discount has lovely employees , a wonderful grooming service , and everything I need to keep my dog in tip top condition !",2,1,0
+"ewt-dev-1898_2_4","ewt-dev-1898","Pets Discount has lovely employees , a wonderful grooming service , and everything I need to keep my dog in tip top condition !",2,4,0
+"ewt-dev-1905_1_0","ewt-dev-1905","you get a really good view of the city and there is also attractions like simulator , short movies .",1,0,0
+"ewt-dev-1905_1_5","ewt-dev-1905","you get a really good view of the city and there is also attractions like simulator , short movies .",1,5,0
+"ewt-dev-1909_1_0","ewt-dev-1909","I love walking in and not being hassled .",1,0,0
+"ewt-dev-1923_1_0","ewt-dev-1923","They offer a good portions at a great price , it 's enough food to fill you up , but you do n't ever feel like you ate too much .",1,0,0
+"ewt-dev-1923_1_4","ewt-dev-1923","They offer a good portions at a great price , it 's enough food to fill you up , but you do n't ever feel like you ate too much .",1,4,0
+"ewt-dev-1923_15_16","ewt-dev-1923","They offer a good portions at a great price , it 's enough food to fill you up , but you do n't ever feel like you ate too much .",15,16,0
+"ewt-dev-1923_27_26","ewt-dev-1923","They offer a good portions at a great price , it 's enough food to fill you up , but you do n't ever feel like you ate too much .",27,26,0
+"ewt-dev-1923_27_29","ewt-dev-1923","They offer a good portions at a great price , it 's enough food to fill you up , but you do n't ever feel like you ate too much .",27,29,0
+"ewt-dev-1925_1_0","ewt-dev-1925","Barb does an AMAZING JOB , she is always learning new things on how to use her hands and body , to give every person an AWESOME MASSAGE , CALL TODAY AND SCHEDULE YOU MUST SEE HER , YOU WILL FALL IN LOVE SHE IS THE BEST OF THE BEST !",1,0,0
+"ewt-dev-1925_1_4","ewt-dev-1925","Barb does an AMAZING JOB , she is always learning new things on how to use her hands and body , to give every person an AWESOME MASSAGE , CALL TODAY AND SCHEDULE YOU MUST SEE HER , YOU WILL FALL IN LOVE SHE IS THE BEST OF THE BEST !",1,4,0
+"ewt-dev-1925_9_6","ewt-dev-1925","Barb does an AMAZING JOB , she is always learning new things on how to use her hands and body , to give every person an AWESOME MASSAGE , CALL TODAY AND SCHEDULE YOU MUST SEE HER , YOU WILL FALL IN LOVE SHE IS THE BEST OF THE BEST !",9,6,0
+"ewt-dev-1925_9_11","ewt-dev-1925","Barb does an AMAZING JOB , she is always learning new things on how to use her hands and body , to give every person an AWESOME MASSAGE , CALL TODAY AND SCHEDULE YOU MUST SEE HER , YOU WILL FALL IN LOVE SHE IS THE BEST OF THE BEST !",9,11,0
+"ewt-dev-1925_40_38","ewt-dev-1925","Barb does an AMAZING JOB , she is always learning new things on how to use her hands and body , to give every person an AWESOME MASSAGE , CALL TODAY AND SCHEDULE YOU MUST SEE HER , YOU WILL FALL IN LOVE SHE IS THE BEST OF THE BEST !",40,38,0
+"ewt-dev-1931_1_0","ewt-dev-1931","He worked on it right on the back of my car .",1,0,0
+"ewt-dev-1940_2_1","ewt-dev-1940","the waitress took my name and then called me that all night .",2,1,0
+"ewt-dev-1940_2_4","ewt-dev-1940","the waitress took my name and then called me that all night .",2,4,1
+"ewt-dev-1948_1_0","ewt-dev-1948","We go to Japaneiro 's all the time and we have NEVER been disappointed !",1,0,0
+"ewt-dev-1948_13_9","ewt-dev-1948","We go to Japaneiro 's all the time and we have NEVER been disappointed !",13,9,0
+"ewt-dev-1952_1_0","ewt-dev-1952","Harlan provides great service .",1,0,0
+"ewt-dev-1952_1_3","ewt-dev-1952","Harlan provides great service .",1,3,0
+"ewt-dev-1955_1_0","ewt-dev-1955","I have nothing but fantastic things to say .",1,0,0
+"ewt-dev-1955_1_2","ewt-dev-1955","I have nothing but fantastic things to say .",1,2,0
+"ewt-dev-1959_1_0","ewt-dev-1959","I have a Saab ... which everything is expensive on and they have been extrememly fair and price a lot lower than any other shop I called .",1,0,0
+"ewt-dev-1959_1_3","ewt-dev-1959","I have a Saab ... which everything is expensive on and they have been extrememly fair and price a lot lower than any other shop I called .",1,3,0
+"ewt-dev-1963_4_2","ewt-dev-1963","The video cable was replaced and suddenly the motherboard was dead .",4,2,0
+"ewt-dev-1971_1_0","ewt-dev-1971","We recommend these cabins !",1,0,0
+"ewt-dev-1971_1_3","ewt-dev-1971","We recommend these cabins !",1,3,0
+"ewt-dev-1973_1_0","ewt-dev-1973","I used to tan down the street before I was referred to this place by one of my friends .",1,0,0
+"ewt-dev-1973_10_8","ewt-dev-1973","I used to tan down the street before I was referred to this place by one of my friends .",10,8,0
+"ewt-dev-1985_2_1","ewt-dev-1985","Drs. Ali work wonders .",2,1,0
+"ewt-dev-1985_2_3","ewt-dev-1985","Drs. Ali work wonders .",2,3,0
+"ewt-dev-1988_2_0","ewt-dev-1988","That alone makes them unique .",2,0,0
+"ewt-dev-1988_2_3","ewt-dev-1988","That alone makes them unique .",2,3,0
+"ewt-dev-1990_1_0","ewt-dev-1990","They offer a large variety of quality hotdogs and hamburgers They also offer veggie dogs .",1,0,0
+"ewt-dev-1990_1_4","ewt-dev-1990","They offer a large variety of quality hotdogs and hamburgers They also offer veggie dogs .",1,4,0
+"ewt-dev-1990_12_10","ewt-dev-1990","They offer a large variety of quality hotdogs and hamburgers They also offer veggie dogs .",12,10,0
+"ewt-dev-1990_12_14","ewt-dev-1990","They offer a large variety of quality hotdogs and hamburgers They also offer veggie dogs .",12,14,0
+"ewt-dev-1994_1_0","ewt-dev-1994","I used my card to purchase a meal on the menu and the total on my receipt was $ 8.95 but when I went on line to check my transaction it show $ 10.74 .",1,0,0
+"ewt-dev-1994_1_3","ewt-dev-1994","I used my card to purchase a meal on the menu and the total on my receipt was $ 8.95 but when I went on line to check my transaction it show $ 10.74 .",1,3,0
+"ewt-dev-1994_5_7","ewt-dev-1994","I used my card to purchase a meal on the menu and the total on my receipt was $ 8.95 but when I went on line to check my transaction it show $ 10.74 .",5,7,1
+"ewt-dev-1994_27_29","ewt-dev-1994","I used my card to purchase a meal on the menu and the total on my receipt was $ 8.95 but when I went on line to check my transaction it show $ 10.74 .",27,29,0
+"ewt-dev-1994_31_32","ewt-dev-1994","I used my card to purchase a meal on the menu and the total on my receipt was $ 8.95 but when I went on line to check my transaction it show $ 10.74 .",31,32,0
+"ewt-dev-1995_1_2","ewt-dev-1995","There is something wrong or maybe the individual made a mistake but to me that is not integrity .",1,2,0
+"ewt-dev-1997_4_0","ewt-dev-1997","All I can say is that Elmira you are the best I ve experienced , never before has the seamstress done a perfect job until i met you .",4,0,0
+"ewt-dev-1997_13_11","ewt-dev-1997","All I can say is that Elmira you are the best I ve experienced , never before has the seamstress done a perfect job until i met you .",13,11,0
+"ewt-dev-1997_26_25","ewt-dev-1997","All I can say is that Elmira you are the best I ve experienced , never before has the seamstress done a perfect job until i met you .",26,25,0
+"ewt-dev-1997_26_27","ewt-dev-1997","All I can say is that Elmira you are the best I ve experienced , never before has the seamstress done a perfect job until i met you .",26,27,0
+"ewt-dev-2001_4_1","ewt-dev-2001","The paint and wheels looked like glass and the interior looked new !",4,1,0
